@@ -1,4 +1,4 @@
-Buffer
+# Buffer
 
 https://youtu.be/YotVoOFDlP8?t=3067
 covert speech as a gate to bci
