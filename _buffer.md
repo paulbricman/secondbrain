@@ -1,3 +1,5 @@
+Buffer
+
 https://youtu.be/YotVoOFDlP8?t=3067
 covert speech as a gate to bci
 the question might be trickier than the answer (figuring out target vs boosting rockets, 42)
