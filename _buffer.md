@@ -10,3 +10,7 @@ Action and perception distord space representation
 Motor cortex magnifies by function, not structure (also children drawings)
 If physical space informs conceptual space, how does it all fit in 3 dimensions? distortion?
 AR place ID are like place cells, perhaps also place neurons in multimodal
+Contrast to artificial looking might push robot out of uncanny valley
+ToM-based emulations are like face recognition without an account
+IP concerns to pause memory formation amd implants
+Optimizing marketing on emulations
