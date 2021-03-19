@@ -9,3 +9,4 @@ Spatial reasoning is the confluence of all senses
 Action and perception distord space representation
 Motor cortex magnifies by function, not structure (also children drawings)
 If physical space informs conceptual space, how does it all fit in 3 dimensions? distortion?
+AR place ID are like place cells, perhaps also place neurons in multimodal
