@@ -18,3 +18,8 @@ Misogi tweaks affordances of the world
 Technological knowledge informs affordances for tools for thought
 Second brain buffer is like a short term memory buffer
 Memetic tragedy of commons
+
+https://supermemo.guru/wiki/Pleasure_of_learning
+Good learning is inherently pleasurable (learn drive)
+Fluid search in second brain efficient fitting of new info
+Optimizing for short semantic distances is sustainable
