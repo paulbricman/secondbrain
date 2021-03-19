@@ -17,3 +17,4 @@ Optimizing marketing on emulations
 Misogi tweaks affordances of the world
 Technological knowledge informs affordances for tools for thought
 Second brain buffer is like a short term memory buffer
+Memetic tragedy of commons
