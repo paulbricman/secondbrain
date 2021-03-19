@@ -14,3 +14,6 @@ Contrast to artificial looking might push robot out of uncanny valley
 ToM-based emulations are like face recognition without an account
 IP concerns to pause memory formation amd implants
 Optimizing marketing on emulations
+Misogi tweaks affordances of the world
+Technological knowledge informs affordances for tools for thought
+Second brain buffer is like a short term memory buffer
