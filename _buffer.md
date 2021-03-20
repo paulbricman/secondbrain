@@ -7,4 +7,14 @@ actions and space create abstractions (spraction)
 blind people gesture
 
 Msfm
-Reduce cognitive dissonance by influencing the body!!
+Reduce cognitive dissonance by influencing the body!! (also minsky's indirect influence idea)
+Machine learning to be me
+
+Learning to be me
+Neural emulation as simply bodily redundancy (lungs, kidneys)
+Neural emulation as activated to aleviate cognitive decline
+Sampling high-dimensional space dimensions may be sufficient for defining a manifold
+Neural emulation feasible when below natural error rate, just like self-driving cars
+Theseus S-something argument against neural emulation progressive takeover
+Psychological zombies challenge emulation sentience
+Ageing not emulated
