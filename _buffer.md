@@ -23,3 +23,6 @@ https://supermemo.guru/wiki/Pleasure_of_learning
 Good learning is inherently pleasurable (learn drive)
 Fluid search in second brain efficient fitting of new info
 Optimizing for short semantic distances is sustainable
+
+https://www.youtube.com/watch?v=9Y--LcpdhXk
+Array modifier creates a repetitive sequence
