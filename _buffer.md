@@ -22,3 +22,4 @@ Ageing not emulated
 logbook
 memetic intelligence could be interactive through a constraint on query-reply compatibility
 fluid search scaffolding should roughly match wm capacity
+neural networks bring memory and computation in the same place
