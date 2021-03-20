@@ -6,11 +6,11 @@ concepts and exemplars are like house rooms and items
 actions and space create abstractions (spraction)
 blind people gesture
 
-Msfm
+Man's search for meaning
 Reduce cognitive dissonance by influencing the body!! (also minsky's indirect influence idea)
-Machine learning to be me
 
 Learning to be me
+Machine learning to be me
 Neural emulation as simply bodily redundancy (lungs, kidneys)
 Neural emulation as activated to aleviate cognitive decline
 Sampling high-dimensional space dimensions may be sufficient for defining a manifold
@@ -18,3 +18,7 @@ Neural emulation feasible when below natural error rate, just like self-driving 
 Theseus S-something argument against neural emulation progressive takeover
 Psychological zombies challenge emulation sentience
 Ageing not emulated
+
+logbook
+memetic intelligence could be interactive through a constraint on query-reply compatibility
+fluid search scaffolding should roughly match wm capacity
