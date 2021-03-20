@@ -23,3 +23,5 @@ logbook
 memetic intelligence could be interactive through a constraint on query-reply compatibility
 fluid search scaffolding should roughly match wm capacity
 neural networks bring memory and computation in the same place
+Sense repetition is like scheduling workout by muscle groups
+Computer networking is a prime source of models of social organization, collaboration
