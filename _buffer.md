@@ -5,3 +5,6 @@ ambiguity promotes creativity (relaxes constraints?)
 concepts and exemplars are like house rooms and items
 actions and space create abstractions (spraction)
 blind people gesture
+
+Msfm
+Reduce cognitive dissonance by influencing the body!!
