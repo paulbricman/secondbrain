@@ -5,3 +5,8 @@ B-rolls defocus, broad diffusion, seems natural
 The vat
 Will as after thought, self model of consciousness
 Free will lack, adverse effect
+
+logbook
+contrasting difficulties are like price decoys
+logics are frameworks
+interpersonal backlinking incentivize deep linking between knowledge bases
