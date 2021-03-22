@@ -14,3 +14,5 @@ The invariant of consciousness supports hash collisions, within error rates
 
 Singlularity from cognitive enhancement
 Diversity reasoning ability avoids ideological debt
+
+Scenius epitomizes collective intelligence
