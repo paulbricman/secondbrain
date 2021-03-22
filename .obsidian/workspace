@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Modifiers are composable transformations.md",
-            "mode": "source"
+            "file": "Metabolism influences neural dynamics.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modifiers are composable transformations.md",
+                "file": "Metabolism influences neural dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Metabolism influences neural dynamics.md",
+    "Extrinsic reward dependence is unsustainable.md",
+    "Neural emulation simply provides bodily redundancy.md",
+    "Dynamic attention enables object permanence.md",
+    "Mind-mind problem decouples cognition and experience.md",
+    "Modifiers are composable transformations.md",
     "Untitled.md",
     "_buffer.md",
     "Feynman cluster infuses learning by teaching with social structure.md",
-    "Knowledge work collective can expose a unifying conversational interface.md",
-    "Creative output can support educational input in free learning.md",
-    "Interpersonal backlinking incentivizes collaborative knowledge work.md",
-    "Logic frameworks formalize truth.md",
-    "Logic frameworks formalize truth.md.md",
-    "Contrasting difficulties are like price decoys.md",
-    "Denying free will is morally debilitating.md"
+    "Knowledge work collective can expose a unifying conversational interface.md"
   ]
 }
