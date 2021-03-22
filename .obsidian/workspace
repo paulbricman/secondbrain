@@ -8,19 +8,19 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Internalizing beliefs incurs ideological debt.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
         "id": "964d7c33064b6f0b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_buffer.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Internalizing beliefs incurs ideological debt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Internalizing beliefs incurs ideological debt.md",
-    "Ubiquitous computing is frictionless by design.md",
-    "Experiential consequences of cognitivism.md",
-    "World-image is a chicken-egg problem.md",
-    "Apathy is hedonic adaptation to dreadful situations.md",
-    "Technical knowledge informs tools for thought.md",
-    "Bruteforce foresight generates trust.md",
-    "Brains are like oceans.md",
-    "Cognitive decline motivates cognitive enhancement.md",
-    "Batching in machine learning is like baking.md"
+    "Feynman cluster infuses learning by teaching with social structure.md",
+    "_buffer.md",
+    "Untitled.md",
+    "Knowledge work collective can expose a unifying conversational interface.md",
+    "Creative output can support educational input in free learning.md",
+    "Interpersonal backlinking incentivizes collaborative knowledge work.md",
+    "Logic frameworks formalize truth.md",
+    "Logic frameworks formalize truth.md.md",
+    "Contrasting difficulties are like price decoys.md",
+    "Denying free will is morally debilitating.md"
   ]
 }
