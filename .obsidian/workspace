@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
+            "file": "Modifiers are composable transformations.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Modifiers are composable transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "_buffer.md",
     "Feynman cluster infuses learning by teaching with social structure.md",
-    "Untitled.md",
     "Knowledge work collective can expose a unifying conversational interface.md",
     "Creative output can support educational input in free learning.md",
     "Interpersonal backlinking incentivizes collaborative knowledge work.md",
