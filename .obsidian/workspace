@@ -4,17 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe8e6e3086d8b8d",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
         "id": "964d7c33064b6f0b",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -77,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +97,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Feynman cluster infuses learning by teaching with social structure.md",
     "_buffer.md",
+    "Feynman cluster infuses learning by teaching with social structure.md",
     "Untitled.md",
     "Knowledge work collective can expose a unifying conversational interface.md",
     "Creative output can support educational input in free learning.md",
