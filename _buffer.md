@@ -11,3 +11,6 @@ Painter-ophtalmologist state for psychotherapy not getting involved
 
 Time bounds life as casually as space
 The invariant of consciousness supports hash collisions, within error rates
+
+Singlularity from cognitive enhancement
+Diversity reasoning ability avoids ideological debt
