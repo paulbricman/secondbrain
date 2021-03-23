@@ -15,3 +15,4 @@ Concept learning is few-shot scaffolding supported by working memory, explains e
 Machine learning ignores progressive aspect, examples are all at once usually, tutoring systems are used
 Scaffolding-based concept learning might work in machine learning too
 Dictionary definitions, by mapping definition to concept embedding might enable few-shot concept learning in NLP, with adjusting embeddings, growing
+Unsupervised learning would also help with foreign/alien/animal languages
