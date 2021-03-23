@@ -12,3 +12,6 @@ UPDATE frankl pan-determinism
 Human ingenuity underscores evolutionary drives
 
 Concept learning is few-shot scaffolding supported by working memory, explains experiential stasis before structural enforcement
+Machine learning ignores progressive aspect, examples are all at once usually, tutoring systems are used
+Scaffolding-based concept learning might work in machine learning too
+Dictionary definitions, by mapping definition to concept embedding might enable few-shot concept learning in NLP, with adjusting embeddings, growing
