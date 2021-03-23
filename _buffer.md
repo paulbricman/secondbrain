@@ -16,3 +16,5 @@ Machine learning ignores progressive aspect, examples are all at once usually, t
 Scaffolding-based concept learning might work in machine learning too
 Dictionary definitions, by mapping definition to concept embedding might enable few-shot concept learning in NLP, with adjusting embeddings, growing
 Unsupervised learning would also help with foreign/alien/animal languages
+
+Tutoring system based on parallels and relations projecting
