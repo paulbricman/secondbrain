@@ -10,9 +10,17 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metabolism influences neural dynamics.md",
-            "mode": "preview"
+            "file": "Scenius epitomizes collective intelligence.md",
+            "mode": "source"
           }
+        }
+      },
+      {
+        "id": "b1ba4366ba1fb977",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metabolism influences neural dynamics.md",
+                "file": "Scenius epitomizes collective intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Metabolism influences neural dynamics.md",
-    "Extrinsic reward dependence is unsustainable.md",
-    "Neural emulation simply provides bodily redundancy.md",
-    "Dynamic attention enables object permanence.md",
-    "Mind-mind problem decouples cognition and experience.md",
-    "Modifiers are composable transformations.md",
-    "Untitled.md",
+    "Scenius epitomizes collective intelligence.md",
     "_buffer.md",
-    "Feynman cluster infuses learning by teaching with social structure.md",
-    "Knowledge work collective can expose a unifying conversational interface.md"
+    "Untitled.md",
+    "Diversity in problem solving sidesteps ideological debt.md",
+    "Transhuman singularity is driven by cognitive enhancement.md",
+    "Invariant of consciousness supports fuzzy duplicates.md",
+    "Spacetime bounds life.md",
+    "Memetic psychotherapy is like an ophtalmologist, not a painter.md",
+    "Context-independent strategies are like good chess moves.md",
+    "Logotherapy is a psychotherapy based on meaning.md"
   ]
 }
