@@ -5,4 +5,8 @@ Rotating interventions accelerate behavior chane (novelty perhaps, fluency perha
 Experience sampling faces a accuracy/attrition trade-off
 
 Mmsm
-Ape suffering meaning human posthuman
+Ape suffering meaning human posthuman, supermeaning, rationalizing the irrational
+Paradoxical intention breaks the phobic vicious cycle
+UPDATE frankl pan-determinism
+
+Human ingenuity underscores evolutionary drives
