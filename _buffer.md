@@ -10,3 +10,5 @@ Paradoxical intention breaks the phobic vicious cycle
 UPDATE frankl pan-determinism
 
 Human ingenuity underscores evolutionary drives
+
+Concept learning is few-shot scaffolding supported by working memory, explains experiential stasis before structural enforcement
