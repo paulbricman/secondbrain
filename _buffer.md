@@ -19,7 +19,10 @@ Catharsis is the mechanism of engaging based stress reduction UPDATE
 Fluid seach output resembles working memory
 Second brain has a cognitive architecture (buffer as stm, fluid as wm, non-linear as semantic network)
 Second brain cognitive architecture guides human-machine collaboration
+Second brain reflects cognitive architecture with higher fidelity, enabling dialogue
+Tools for thought should focus on the basics, amplify fundamentals (Douglas)
+Tools for thought should aim for cognitive ergonomics?
+Second brain development is an active measure against cognitive decline
 
 Equity trumps equality with non-uniform priors
 
-Second brain development is an active measure against cognitive decline
