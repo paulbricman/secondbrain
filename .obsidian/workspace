@@ -6,13 +6,21 @@
       {
         "id": "964d7c33064b6f0b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
-            "mode": "source"
+            "file": "Explicit position cues accelerate concept learning.md",
+            "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "74abe1c6d6c2a827",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4332d29aca573c11",
@@ -70,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +105,14 @@
   },
   "lastOpenFiles": [
     "_buffer.md",
-    "B-rolls induce diffused mental state.md",
-    "Scenius epitomizes collective intelligence.md",
+    "Explicit position cues accelerate concept learning.md",
     "Untitled.md",
-    "Diversity in problem solving sidesteps ideological debt.md",
-    "Transhuman singularity is driven by cognitive enhancement.md",
-    "Invariant of consciousness supports fuzzy duplicates.md",
-    "Spacetime bounds life.md",
-    "Memetic psychotherapy is like an ophtalmologist, not a painter.md",
-    "Context-independent strategies are like good chess moves.md"
+    "Unsupervised learning derives semantics from non-human languages.md",
+    "Dictionary definitions enable one-shot concept learning.md",
+    "Machine learning ignores progressive nature of human learning.md",
+    "Machine learning ignores progressive dimension of human learning.md",
+    "Concept learning is few-shot scaffolding supported by working memory.md",
+    "Human ingenuity underscores evolutionary drives.md",
+    "Denying free will is morally debilitating.md"
   ]
 }
