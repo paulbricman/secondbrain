@@ -26,3 +26,5 @@ Second brain development is an active measure against cognitive decline
 
 Equity trumps equality with non-uniform priors
 
+Consciousness as latent representation store view is consonant with experiential insights
+
