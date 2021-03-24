@@ -21,3 +21,5 @@ Second brain has a cognitive architecture (buffer as stm, fluid as wm, non-linea
 Second brain cognitive architecture guides human-machine collaboration
 
 Equity trumps equality with non-uniform priors
+
+Second brain development is an active measure against cognitive decline
