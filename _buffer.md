@@ -14,7 +14,7 @@ Dense linking provides explicit position cues for concepts
 Paraphrase mining approximates dense linking
 NLI and prompt engineer might also help with mental model overlay
 
-Catharsis is the mechanism of engaging based atress reduction UPDATE
+Catharsis is the mechanism of engaging based stress reduction UPDATE
 
 Fluid seach output resembles working memory
 Second brain has a cognitive architecture (buffer as stm, fluid as wm, non-linear as semantic network)
