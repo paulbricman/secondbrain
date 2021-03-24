@@ -12,6 +12,7 @@ Fix typo civilisation
 
 Dense linking provides explicit position cues for concepts
 Paraphrase mining approximates dense linking
+NLI and prompt engineer might also help with mental model overlay
 
 Catharsis is the mechanism of engaging based atress reduction UPDATE
 
