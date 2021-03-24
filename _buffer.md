@@ -18,3 +18,5 @@ Catharsis is the mechanism of engaging based atress reduction UPDATE
 Fluid seach output resembles working memory
 Second brain has a cognitive architecture (buffer as stm, fluid as wm, non-linear as semantic network)
 Second brain cognitive architecture guides human-machine collaboration
+
+Equity trumps equality with non-uniform priors
