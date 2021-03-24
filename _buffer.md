@@ -5,3 +5,12 @@ real physics constraints from simulation can inform object design
 data-driven physical simulation makes design with contraints computationally feasible 
 Single-slider provides richer user latent space exploration than pairwise comparison, together with maximum information questions (SSM, 2GC)
 crowdsourcing approximates convex optimization, through subtasks
+
+Mmsm
+UPDATE latent dormant meaning in logotherapy
+Fix typo civilisation
+
+Dense linking provides explicit position cues for concepts
+Paraphrase mining approximates dense linking
+
+Catharsis is the mechanism of engaging based atress reduction UPDATE
