@@ -14,3 +14,5 @@ Action at a distance reduces friction
 Aaad distorts affordances of distance
 
 Body transplant wtf egan
+
+If thoughts aren't you, persona seems less invasive
