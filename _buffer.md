@@ -11,4 +11,8 @@ Primary impulse for tech dev/meme
 Privacy of space driven by information propagation, rather than space per se (rather privacy itself)
 Common locus of attention is unifying, makes private
 Action at a distance reduces friction
-Aaad distorts affordances of distance ki
+Aaad distorts affordances of distance
+
+Body transplant wtf egan
+
+If thoughts aren't you, persona seems less invasive
