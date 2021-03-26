@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_buffer.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "buff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_buffer.md",
+    "Candidate solution overload is a problem.md",
+    "Possible solution overload is a problem.md",
     "Meditation is a form of reflection.md",
     "B-rolls induce diffused mental states.md",
     "Brains are like oceans.md",
     "Similar embodiment predicts manifold alignment.md",
     "Pose detection enables kinesthetic sketchnoting.md",
     "Shape autocorrect facilitates diagram creation through gesturing.md",
-    "Spacetime bounds memeplexes.md",
-    "Monotonic logics prevent retrospective invalidations.md",
-    "Craving for grounding spawns Cartesian anxiety.md",
-    "Recovery and matching provide self-supervised signals.md"
+    "Spacetime bounds memeplexes.md"
   ]
 }
