@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_buffer.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drawing sur",
+                "query": "summari",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -46,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Drawing surfaces extend visuospatial sketchpad.md",
-    "Shape autocorrect facilitates diagram creation through gesturing.md",
     "_buffer.md",
-    "Untitled.md",
-    "Common focus enables privacy.md",
-    "Privacy is primarily concerned with information, not space.md",
-    "Second brain version control enables past self snapshots.md",
+    "Fluid search enables scaffolding structure for incremental reading.md",
+    "Creative output can support educational input in free learning.md",
+    "Similar embodiment predicts manifold alignment.md",
     "Semantic embeddings of discrete items are like checkers.md",
-    "Version control systems empower creatives.md",
-    "The whole is more than the sum of its parts, but less than the product.md"
+    "The whole is more than the sum of its parts, but less than the product.md",
+    "Brains code relative object positions.md",
+    "Bruteforce foresight generates trust.md",
+    "Natural language inference derives conceptual structure.md",
+    "Paraphrase mining approximates dense linking.md"
   ]
 }
