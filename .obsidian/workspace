@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "12a6eafdec2c0755",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56a13aae01b4b94",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "980fac868b5bcb39",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2f83be5080f277d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cc7b99e1b1eefc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e6dd317cc1f74fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "gestur",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "924cb989605f36cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1581876265483825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19eacf2798a4eb84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "The whole is more than the sum of its parts, but less than the product.md",
+    "Context-independent strategies are like good chess moves.md",
+    "Automated fabrication supports prosumers.md",
+    "Metaphor is central to cognition.md",
+    "Extrinsic reward dependence is unsustainable.md",
+    "Selectively sampling dimensions facilitates manifold definition.md",
+    "Body movement supports spatial reasoning.md",
+    "Perseverence signals fitness.md",
+    "_buffer.md",
+    "Guided search in attention is multi-pass filtering in machine learning.md"
+  ]
+}
