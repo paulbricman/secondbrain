@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e56a13aae01b4b94",
+        "id": "037c5b0d58c4bf76",
         "type": "leaf",
         "active": true,
         "state": {
@@ -37,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gestur",
+                "query": "drawing sur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -51,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.0107650756836
   },
   "right": {
     "id": "924cb989605f36cb",
@@ -83,15 +83,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "The whole is more than the sum of its parts, but less than the product.md",
-    "Context-independent strategies are like good chess moves.md",
-    "Automated fabrication supports prosumers.md",
-    "Metaphor is central to cognition.md",
-    "Extrinsic reward dependence is unsustainable.md",
-    "Selectively sampling dimensions facilitates manifold definition.md",
-    "Body movement supports spatial reasoning.md",
-    "Perseverence signals fitness.md",
+    "Drawing surfaces extend visuospatial sketchpad.md",
+    "Shape autocorrect facilitates diagram creation through gesturing.md",
     "_buffer.md",
-    "Guided search in attention is multi-pass filtering in machine learning.md"
+    "Untitled.md",
+    "Common focus enables privacy.md",
+    "Privacy is primarily concerned with information, not space.md",
+    "Second brain version control enables past self snapshots.md",
+    "Semantic embeddings of discrete items are like checkers.md",
+    "Version control systems empower creatives.md",
+    "The whole is more than the sum of its parts, but less than the product.md"
   ]
 }
