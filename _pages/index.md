@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome!
 
-Here's a selection of thoughts to get lost into:
+Here's a selection of notes to get lost into:
 
 - [[Second brain architecture closely resembles human cognitive architecture]]
 - [[Concept learning is few-shot scaffolding supported by working memory]]
