@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ea628eebf56659d4",
+        "id": "4442a83169d796e4",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Interpersonal backlinks incentivize collaborative knowledge work.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backlink",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,11 +66,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpersonal backlinks incentivize collaborative knowledge work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -83,19 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
+    "Abundance signals fitness.md",
+    "Multimodal mappings generate multimodal receptive fields.md",
+    "Interpersonal backlinks incentivize collaborative knowledge work.md",
     "Interpersonal backlinking incentivizes collaborative knowledge work.md",
     "Second brain architecture closely resembles human cognitive architecture.md",
     "Dense linking provides explicit position cues for concepts.md",
     "Concept learning is few-shot scaffolding supported by working memory.md",
     "Visual imagery brightness modulates pupil size.md",
     "Retinal imagery idiosyncracy highlights neural regularity mining.md",
-    "Prototypical reasoning enriches exemplars.md",
-    "Genotype-phenotype mapping is highly non-linear.md",
-    "Bruteforce foresight generates trust.md",
-    "Consciousness as latent representation store is consonant with experiential insights.md"
+    "Prototypical reasoning enriches exemplars.md"
   ]
 }

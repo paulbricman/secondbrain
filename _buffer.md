@@ -24,3 +24,5 @@ Sensory recruitment hypothesis predicts reduced wm capacity in sensory deprivati
 UPDATE nn's combine mem and compute, just like the real deal, with memories
 P-zombie for past self
 Value of otherness transcends first person view sharing curiosity
+
+second brain is characterized by pragmatic inertia around start time
