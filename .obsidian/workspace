@@ -4,15 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "037c5b0d58c4bf76",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "37eddfb0e3aff04e",
+        "id": "ea628eebf56659d4",
         "type": "leaf",
         "active": true,
         "state": {
@@ -45,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "covert",
+                "query": "retina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,15 +82,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Presaccadic attention fosters discrimination.md",
-    "Equity trumps equality with non-uniform priors.md",
-    "Emergent properties are dependent on low-level state.md",
-    "Spacetime bounds life.md",
-    "Cross-encoders could render memetic intelligence interactive.md",
-    "If physical space informs conceptual space, how does it fit in three dimensions?.md",
-    "Memetic psychotherapy is like an ophtalmologist, not a painter.md",
-    "Motivation modulates attention.md",
-    "Conversational interfaces render knowledge bases into agents.md",
-    "Meditation is a form of reflection.md"
+    "_buffer.md",
+    "Untitled 1.md",
+    "No free lunch principle challenges local improvement role.md",
+    "Cognitive magnification results in topographic organization.md",
+    "Motor cortex magnifies by function, not structure.md",
+    "Spatial metaphors provide primitives for latent space navigation.md",
+    "Physical and conceptual space are coded in the same region.md",
+    "Attention is a competition.md",
+    "Brain is like hardware, mind is like software.md",
+    "Good learning is inherently pleasurable.md"
   ]
 }
