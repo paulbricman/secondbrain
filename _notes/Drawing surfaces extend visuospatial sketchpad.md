@@ -1,4 +1,0 @@
----
----
-
-Whiteboards and other drawing surfaces provide a mechanism for offloading [[Concept learning is few-shot scaffolding supported by working memory|working memory load]], essentially enhancing the capacity of the speculated visuospatial sketchpad. This might explain why sketching papers are so deeply associated with generating insight. What's more, [[Fluid search output resembles working memory|fluid search output might also extend working memory]], but using [[Second brain has a cognitive architecture|the second brain architecture]], rather than a drawing surface.
