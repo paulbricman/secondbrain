@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_pages/index.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/index.md",
     "Abundance signals fitness.md",
     "Multimodal mappings generate multimodal receptive fields.md",
     "Interpersonal backlinks incentivize collaborative knowledge work.md",
@@ -89,7 +94,6 @@
     "Dense linking provides explicit position cues for concepts.md",
     "Concept learning is few-shot scaffolding supported by working memory.md",
     "Visual imagery brightness modulates pupil size.md",
-    "Retinal imagery idiosyncracy highlights neural regularity mining.md",
-    "Prototypical reasoning enriches exemplars.md"
+    "Retinal imagery idiosyncracy highlights neural regularity mining.md"
   ]
 }
