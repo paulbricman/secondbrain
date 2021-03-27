@@ -6,3 +6,4 @@ git --work-tree=_site push -u origin gh-pages
 git add .
 git stash
 git checkout master
+git branch -D gh-pages
