@@ -1,0 +1,4 @@
+---
+---
+
+The manifold hypothesis connects the apparently complex nature of a high-dimensional space to a simplified low-dimensional manifold. While the manifold hypothesis has been considered in the domain of representations internalized by neural networks, it could plausibly provide a conceptual framework for linking the attributes of a system with its emergent properties. Therefore, the manifold hypothesis could be used as a conceptual tool for studying emergence in general, and particularly interesting in neuroscience.
