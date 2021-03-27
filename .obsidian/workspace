@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Visual imagery brightness modulates pupil size.md",
-            "mode": "source"
+            "file": "Interpersonal backlinks incentivize collaborative knowledge work.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exemplar",
+                "query": "backlink",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual imagery brightness modulates pupil size.md",
+                "file": "Interpersonal backlinks incentivize collaborative knowledge work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Interpersonal backlinking incentivizes collaborative knowledge work.md",
+    "Second brain architecture closely resembles human cognitive architecture.md",
+    "Dense linking provides explicit position cues for concepts.md",
+    "Concept learning is few-shot scaffolding supported by working memory.md",
     "Visual imagery brightness modulates pupil size.md",
     "Retinal imagery idiosyncracy highlights neural regularity mining.md",
     "Prototypical reasoning enriches exemplars.md",
     "Genotype-phenotype mapping is highly non-linear.md",
     "Bruteforce foresight generates trust.md",
-    "Consciousness as latent representation store is consonant with experiential insights.md",
-    "Brains are like buildings.md",
-    "Concepts are like rooms.md",
-    "Cognitive resources are elastic.md",
-    "Machine learning often finds surprising solutions.md"
+    "Consciousness as latent representation store is consonant with experiential insights.md"
   ]
 }
