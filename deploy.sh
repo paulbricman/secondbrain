@@ -1,4 +1,3 @@
-rm -rf _site/*
 jekyll build
 git checkout gh-pages
 git --work-tree=_site add --all
