@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
+            "file": "Visual imagery brightness modulates pupil size.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffer",
+                "query": "exemplar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Visual imagery brightness modulates pupil size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_buffer.md",
-    "Explicit position cues accelerate concept learning.md",
-    "Untitled 1.md",
-    "No free lunch principle challenges local improvement role.md",
-    "Cognitive magnification results in topographic organization.md",
-    "Motor cortex magnifies by function, not structure.md",
-    "Spatial metaphors provide primitives for latent space navigation.md",
-    "Physical and conceptual space are coded in the same region.md",
-    "Attention is a competition.md",
-    "Brain is like hardware, mind is like software.md"
+    "Visual imagery brightness modulates pupil size.md",
+    "Retinal imagery idiosyncracy highlights neural regularity mining.md",
+    "Prototypical reasoning enriches exemplars.md",
+    "Genotype-phenotype mapping is highly non-linear.md",
+    "Bruteforce foresight generates trust.md",
+    "Consciousness as latent representation store is consonant with experiential insights.md",
+    "Brains are like buildings.md",
+    "Concepts are like rooms.md",
+    "Cognitive resources are elastic.md",
+    "Machine learning often finds surprising solutions.md"
   ]
 }

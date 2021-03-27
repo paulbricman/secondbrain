@@ -9,3 +9,7 @@ different exemplars contraint forces one to softly move out of comfort zone of p
 programming metaphors become explicit, embodied in VR (libary, loop, function calling, objects, if branching)
 AR renders concepts into tangible objects
 sketchnotes hint at latent visual capability, AR/VR can actualize it
+VR further extends sketchpad
+
+design thinking extends design conception beyond graphics
+digital twin
