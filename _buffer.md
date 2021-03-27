@@ -17,8 +17,10 @@ digital twin
 Optimal knowledge transfer, what would that be among note systems?
 Optimal glimpse into one's knowledge, what would that be?
 
-Closer
+Closer, Greg Egan
 Cultural alignment, shared experience, means.. neural manifold alignment, just with physical space!
 Mixing in latent space of neural manifolds enable first person view sharing
 Sensory recruitment hypothesis predicts reduced wm capacity in sensory deprivation? Yeah not really actually
 UPDATE nn's combine mem and compute, just like the real deal, with memories
+P-zombie for past self
+Value of otherness transcends first person view sharing curiosity
