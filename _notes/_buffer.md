@@ -26,3 +26,7 @@ Perihelion and aphelion formalize optimization based on orbits?
 Abstract dimensions projected on space (consciousness, time, ideology)
 
 Persona/Ndoli duplicate might help one see their own flaws better, due to the objectivity
+
+Consolidation as stm to ltm insecond brain
+google effect externalities
+distil resource for creative closed loop
