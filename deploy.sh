@@ -1,10 +1,10 @@
-git checkout -b gh-pages
-jekyll build
-git --work-tree=_site add --all
-git --work-tree=_site commit -m "autogen: update site"
-git --work-tree=_site pull origin gh-pages --rebase
-git --work-tree=_site push -u origin gh-pages
+git checkout gh-pages
+git pull origin gh-pages
+rm -rf ./*.html
+git checkout master -- _site/*
+mv ./_site/* .
+rmdir _site
 git add .
-git stash
+git commit -m "script _site autoupdate"
+git push origin gh-pages
 git checkout master
-git branch -D gh-pages
