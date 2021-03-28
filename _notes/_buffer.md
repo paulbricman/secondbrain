@@ -24,3 +24,5 @@ Memetic protectionism enables ideological momentum, avoiding attractors, but as 
 Planning trajectory in memetic space, the mere idea
 Perihelion and aphelion formalize optimization based on orbits?
 Abstract dimensions projected on space (consciousness, time, ideology)
+
+Persona/Ndoli duplicate might help one see their own flaws better, due to the objectivity
