@@ -1,3 +1,6 @@
+---
+---
+
 overlap between perception and imagery (build on sensory deprivation)
 
 https://www.youtube.com/watch?v=0Cwrd2mDRjA
