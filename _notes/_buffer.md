@@ -1,6 +1,3 @@
----
----
-
 overlap between perception and imagery (build on sensory deprivation)
 
 https://www.youtube.com/watch?v=0Cwrd2mDRjA
@@ -10,3 +7,8 @@ sloppy faster sato
 fitt's law for saccades and concepts in manifold
 swipe gestures might make typing more based on visual, spatial motion
 learning stages from cognitive to associative to automatic
+
+Behave
+Allocentric perspective avoids biases? Link to egocentric perspective
+Autonomy, reduction, and the various configurations in philosophy of science (esp for the mind)
+Categorical perception has a blindspot for nuance
