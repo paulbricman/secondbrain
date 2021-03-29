@@ -32,4 +32,7 @@ Persona/Ndoli duplicate might help one see their own flaws better, due to the ob
 
 Consolidation as stm to ltm insecond brain
 google effect externalities
-distil resource for creative closed loop
+locus of meta-object interaction
+
+dockerfile scaffolding structure
+brain in edit mode thought experiment
