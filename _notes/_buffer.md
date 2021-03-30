@@ -9,3 +9,6 @@ Social related neural activity as turing test alternative
 Relations might be coded, instead of concepts?
 Fear also metabolism, neural dynamics
 Neural activity precedes hormones, fear is coded before the stress response
+Somatic marker hypo breaks the reason-emotion dichotomy
+
+Neural emulation based on forecasting, deriving meaningful representations
