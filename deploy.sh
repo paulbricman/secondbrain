@@ -4,7 +4,7 @@ git commit -m "Update"
 git push origin master
 git checkout gh-pages
 git pull origin gh-pages
-rm -rf ./*.html
+rm -r ./*
 git checkout master -- _site/*
 mv ./_site/* .
 rmdir _site

@@ -17,3 +17,4 @@ http://www.scpwiki.com/unforgettable-that-s-what-you-are
 antimemetic field hah, sounds like a cover up in overly complex language
 conceptual nebulas as prime targets for malicious rationalization
 stealthed memes propagating without effects like in plague, only later triggered, contained by unpleasantness
+
