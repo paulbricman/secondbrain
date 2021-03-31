@@ -7,3 +7,5 @@ Emotion experiments, rather than thought experiments (update somatic marker)
 Hedonic adaptation based on reward systems
 Reward takes opportunity cost in consideration
 Reward is mostly scale-free
+Artificial rewards destabilize reward system through desensitization and crave rescaling
+Memetic Psychotherapy equips the dlPFC with powerful tools to coordinate vmPFC/LS when necessary
