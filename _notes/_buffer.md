@@ -4,3 +4,6 @@ Vironment-veillance-virtuality model? not really
 
 Tacit knowledge acquisition problem is how do you get from cognitive to autonomous phase fastest?
 Behaviorism and ethology were in balance
+There's sato in subcortical shortcuts
+Subliminal cues for patostasis?
+James-Lange theory flips emotions-to-body state
