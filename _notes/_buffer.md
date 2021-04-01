@@ -17,3 +17,4 @@ violent extremism, genocide as vivid consequences of memetic pathogens
 
 dark knowledge, tacit knowledge
 conceptual gateways as entry points, breaking down conceptual silo's
+but conceptual gateways and interpersonal backlinks are related, they break the folders and the tags, separately, together
