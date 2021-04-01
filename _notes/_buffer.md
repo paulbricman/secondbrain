@@ -19,4 +19,4 @@ dark knowledge, tacit knowledge
 conceptual gateways as entry points, breaking down conceptual silo's
 but conceptual gateways and interpersonal backlinks are related, they break the folders and the tags, separately, together
 
-Markov model for autocorrect of actions in complex software? Or rather the reverse, autocorrect for actions enabling tacit knowledge transfer
+Markov model for autocorrect of actions in complex software? Or rather the reverse, autocorrect for actions enabling tacit knowledge transfer. This could generalize to anything which works in RPA, process mining
