@@ -1,0 +1,10 @@
+I"Ç<p>In the context of <a class="internal-link" href="/secondbrain/second-brain-architecture-guides-cognitive-augmentation">human-machine collaboration</a>, the WearComp model highlights possible <a class="internal-link" href="/secondbrain/medium-influences-message">information channels</a>.</p>
+
+<ol>
+  <li>Input: Both the human and the machine independently <a class="internal-link" href="/secondbrain/perception-is-context-dependent">perceive the world</a>.</li>
+  <li>Output: Both the human and the machine can act independently in the world.</li>
+  <li>Internal: The human controls and observes the machine.</li>
+</ol>
+
+<p>However, the control/observe internal framing makes it difficult for the user to collaborate with an <a class="internal-link" href="/secondbrain/conversational-interfaces-render-knowledge-bases-into-agents">agent</a>, rather than a <a class="internal-link" href="/secondbrain/tools-for-thought-interface-users-with-knowledge">tool</a>.</p>
+:ET
