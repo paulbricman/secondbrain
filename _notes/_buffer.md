@@ -4,4 +4,7 @@ birds-eye view as B-roll effect diffuse attention
 tap into human expertise frictionless on demand as shared experience
 human surrogate as proxy, uber, telepresence
 
-Neurotransmitters vs hormones (synaptic cleft vs bloodstream,effective field in a way, ms vs hiurs/days, versatility)
+Neurotransmitters vs hormones (synaptic cleft vs bloodstream,effective field in a way, ms vs hiurs/days, versatility, both are messengers)
+Most hormones span neuroendocrine axis
+Biochemical signaling is like yelling/hearing
+Testosterone mediates limbic friction, amplifies subcortical
