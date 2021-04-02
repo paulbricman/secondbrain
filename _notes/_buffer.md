@@ -8,3 +8,5 @@ Neurotransmitters vs hormones (synaptic cleft vs bloodstream,effective field in 
 Most hormones span neuroendocrine axis
 Biochemical signaling is like yelling/hearing
 Testosterone mediates limbic friction, amplifies subcortical
+
+Social incentive engineering for free learning? Hall of fame
