@@ -10,3 +10,4 @@ Biochemical signaling is like yelling/hearing
 Testosterone mediates limbic friction, amplifies subcortical
 
 Social incentive engineering for free learning? Hall of fame
+If even thoughts have a life of their own, what remains of you?
