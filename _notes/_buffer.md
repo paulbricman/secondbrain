@@ -9,3 +9,5 @@ Oxytocin and vasopressin for caring offspring, relax, prosociality, social compe
 Hormones are contingent, they buff or nerf
 
 Top-down effects on memory, of course! No wonder who controls the present controls the past
+
+Conceptual gateways are wormholes, portals, connect different regions of conceptual space, enable transfer of structure, information
