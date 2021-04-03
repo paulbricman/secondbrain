@@ -8,3 +8,4 @@ Update neuroendocrine without hypocampus, because hypothalamic, more general
 Oxytocin and vasopressin for caring offspring, relax, prosociality, social competence
 Hormones are contingent, they buff or nerf
 
+Top-down effects on memory, of course! No wonder who controls the present controls the past
