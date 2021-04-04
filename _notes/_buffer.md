@@ -27,3 +27,4 @@ Location on neural manifold during emulation crucial
 Written word as proxy for imitated thought this is briliant
 
 Semantic clustering of book paragraphs for necronimicon, also some cross-encoder testing for sentences following each other, I think this was part of the BERT objective
+remembering memories might be similar to kernel machine similarity function which is malleable
