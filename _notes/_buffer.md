@@ -6,3 +6,6 @@ braitenberg vehicles (euglena, paramecia are love I think?)
 Morphemes provide explocit position cues, word pieces, peri
 Body equilibrium is homeostasis, vs stressor
 Acute vs chronic stress, exapted unintentionally
+Stress-induced disease is metabolic prioritization issue
+Stress in continuum, boring awesome horrible
+
