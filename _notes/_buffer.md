@@ -10,3 +10,6 @@ Stress-induced disease is metabolic prioritization issue
 Stress in continuum, boring awesome horrible
 Stress weakens PFC hold on limbic, like testosterone (via glucocorticoids?)
 Stress is peak exploitation in cognitive behavioral metabolic foraging
+
+Binding concepts for computing position?
+Concept handles are like addresses in conceptual space
