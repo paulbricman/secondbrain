@@ -24,5 +24,6 @@ Quantified self, neuroimaging as physical introspection in function
 Memory is like a manuscript
 Neural activity is like airflow, pressure and vector field
 Location on neural manifold during emulation crucial
+Written word as proxy for imitated thought this is briliant
 
 Semantic clustering of book paragraphs for necronimicon
