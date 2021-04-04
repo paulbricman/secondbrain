@@ -20,3 +20,4 @@ Concept handles are like addresses in conceptual space
 Update memory as artifact based on inscription hypothesis
 
 Tools as body, equal footing, phenomenological transparency
+Quantified self, neuroimaging as physical introspection in function
