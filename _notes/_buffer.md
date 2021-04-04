@@ -8,4 +8,5 @@ Body equilibrium is homeostasis, vs stressor
 Acute vs chronic stress, exapted unintentionally
 Stress-induced disease is metabolic prioritization issue
 Stress in continuum, boring awesome horrible
-
+Stress weakens PFC hold on limbic, like testosterone (via glucocorticoids?)
+Stress is peak exploitation in cognitive behavioral metabolic foraging
