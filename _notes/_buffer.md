@@ -21,3 +21,8 @@ Update memory as artifact based on inscription hypothesis
 
 Tools as body, equal footing, phenomenological transparency
 Quantified self, neuroimaging as physical introspection in function
+Memory is like a manuscript
+Neural activity is like airflow
+Location on neural manifold during emulation crucial
+
+Semantic clustering of book paragraphs for necronimicon
