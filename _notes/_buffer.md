@@ -12,3 +12,4 @@ Brain matures by pruning through neuroevolution, equivalence and elderly scaffol
 Adolescence is exploratory, smart foraging strategy -> If we'll live forever, how should we forage?
 
 perhaps kernel machine similarity function drives concept learning?
+language model causal probability can inform tacit knowledge transfer in language learning
