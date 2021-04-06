@@ -10,3 +10,5 @@ Behave
 Neurogenesis, abstract over age and drraming perhaps
 Brain matures by pruning through neuroevolution, equivalence and elderly scaffolding sweet spot
 Adolescence is exploratory, smart foraging strategy -> If we'll live forever, how should we forage?
+
+perhaps kernel machine similarity function drives concept learning?
