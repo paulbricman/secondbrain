@@ -13,3 +13,5 @@ Adolescence is exploratory, smart foraging strategy -> If we'll live forever, ho
 
 perhaps kernel machine similarity function drives concept learning?
 language model causal probability can inform tacit knowledge transfer in language learning
+
+minimal control principle
