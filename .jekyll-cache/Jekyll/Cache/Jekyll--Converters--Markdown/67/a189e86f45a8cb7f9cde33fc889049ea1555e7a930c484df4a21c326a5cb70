@@ -1,0 +1,11 @@
+I"�<table>
+  <tbody>
+    <tr>
+      <td>In machine learning, dark knowledge refers to a trained model’s [[Commonsense is a causal model repository</td>
+      <td>intuition]] being captured in [[Latent-variable architecture enables data augmentation through hidden state modulation</td>
+      <td>expressed uncertainty]]. It seems that using this expert model intuition as the object of optimization is extremely effective in training a new model on the task. The expert-related error signal provides a rich constraint which forces the new model into internalizing the expert’s intuition, [[Tacit knowledge in skill acquisition is dark knowledge in machine learning</td>
+      <td>just like in tacit knowledge]].</td>
+    </tr>
+  </tbody>
+</table>
+:ET
