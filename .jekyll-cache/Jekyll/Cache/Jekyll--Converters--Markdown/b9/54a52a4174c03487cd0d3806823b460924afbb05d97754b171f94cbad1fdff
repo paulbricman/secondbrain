@@ -1,0 +1,8 @@
+I"ç<p>The binding problem can be subdivided into several subproblems:</p>
+<ol>
+  <li>Feature binding: How are features of stimuli combined into coherent representations of objects? Perhaps through biased receptive fields.</li>
+  <li><a class="internal-link" href="/secondbrain/experiential-consequences-of-cognitivism">Subjective unity</a> of perception: How are percepts integrated into a coherent experience? Perhaps through short-term feature memory.</li>
+  <li>Variable binding: How are roles associated with entities? Perhaps through firing synchrony. Nengo models this as convolutions between semantic pointers.</li>
+  <li>General coordination: How are abstract latent representations combined coherently with current relevance?</li>
+</ol>
+:ET
