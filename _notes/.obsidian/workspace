@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "7d6105c929c07dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "769761f3e87367fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Predestined learning breaks nature-nurture dichotomy.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47dc21e0acb0b7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d6fc8df4dd38d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "484df4fd58007de0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e5675186f6a17ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "predestined",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd6a90b6f24db9c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "22135a003e0f32a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664426263f409dbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Predestined learning breaks nature-nurture dichotomy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "769761f3e87367fa",
+  "lastOpenFiles": [
+    "Predestined learning breaks nature-nurture dichotomy.md",
+    "Predestined learning supports the Bitter Lesson.md",
+    "_buffer.md"
+  ]
+}
