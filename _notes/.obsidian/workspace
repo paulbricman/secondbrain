@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sense repetition infuses spaced repetition with human sense making.md",
+            "file": "Dreaming exploits idiosyncratic neural dynamics.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "39abbd5ad6b358f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_buffer.md",
             "mode": "source"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sense re",
+                "query": "understanding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sense repetition infuses spaced repetition with human sense making.md",
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "769761f3e87367fa",
+  "active": "39abbd5ad6b358f5",
   "lastOpenFiles": [
-    "Sense repetition infuses spaced repetition with human sense making.md",
-    "Predestined learning breaks nature-nurture dichotomy.md",
-    "Predestined learning supports the Bitter Lesson.md",
-    "_buffer.md"
+    "_buffer.md",
+    "Dreaming exploits idiosyncratic neural dynamics.md",
+    "Machine learning ignores progressive nature of human learning.md",
+    "Prefrontal cortex matures in the mid twenties.md",
+    "Computer vision enables visual mnemonic mining.md",
+    "Multi-modal representations foster understanding.md",
+    "Multimodal mappings generate multimodal receptive fields.md",
+    "Untitled.md",
+    "Early second brain suffers from interest misrepresentation.md",
+    "Second brain enables combinatorial explosion of trains of thought.md"
   ]
 }
