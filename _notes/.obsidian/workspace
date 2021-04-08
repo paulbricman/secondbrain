@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
+            "file": "Computer vision enables visual mnemonic mining.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Computer vision enables visual mnemonic mining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "39abbd5ad6b358f5",
   "lastOpenFiles": [
+    "Computer vision enables visual mnemonic mining.md",
     "_buffer.md",
     "Dreaming exploits idiosyncratic neural dynamics.md",
     "Machine learning ignores progressive nature of human learning.md",
     "Prefrontal cortex matures in the mid twenties.md",
-    "Computer vision enables visual mnemonic mining.md",
     "Multi-modal representations foster understanding.md",
     "Multimodal mappings generate multimodal receptive fields.md",
     "Untitled.md",
