@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "769761f3e87367fa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Dreaming exploits idiosyncratic neural dynamics.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "39abbd5ad6b358f5",
         "type": "leaf",
         "state": {
@@ -59,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
