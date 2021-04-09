@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7826e9dc6fd55f4d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Text-based image generation accelerates reading.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "bd2af345f2ae6452",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Knowledge graph connectivity quantifies knowledge work.md",
+            "file": "_buffer.md",
             "mode": "source"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Text-based image generation accelerates reading.md",
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7826e9dc6fd55f4d",
+  "active": "bd2af345f2ae6452",
   "lastOpenFiles": [
+    "_buffer.md",
+    "Knowledge graph connectivity quantifies knowledge work.md",
+    "Text-based image generation accelerates reading.md",
     "Text-based image generation acceleretes reading.md",
     "Untitled.md",
     "Engineering conceptual gateways catalyzes breakthroughs.md",
-    "Knowledge graph connectivity quantifies knowledge work.md",
     "Conceptual gateways are like bridges.md",
     "How are levels of explanations related?.md",
     "Semantically related notes are conceptual gateways.md",
-    "Rich mental model repository is conductive of insight.md",
-    "Conceptual gateways are like wormholes.md",
-    "Adolescence is exploratory.md"
+    "Rich mental model repository is conductive of insight.md"
   ]
 }
