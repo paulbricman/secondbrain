@@ -1,0 +1,4 @@
+---
+---
+
+Transdisciplinary [[Semantically related notes are conceptual gateways|conceptual gateways]], whether [[Conceptual gateways are like bridges|purposefully engineered]] or [[How could learner-aware tools improve concept learning?|automatically devised]], accelerate the circulation of ideas across disparate fields, essentially [[Rich mental model repository is conductive of insight|opening up conceptual silos]]. In doing this, they increase the diversity of the [[Memeplexes resemble grativational attractors|meme pool]] and the selective pressure which [[Meme age signals relevance|memes are subjected to]], resulting in ever more powerful ideas. In light of this, conceptual gateway engineering might be a fruitful approach to accelerating scientific inquiry through second-order effects. That said, [[Information hygiene is like spacecraft sanitization|lax information hygiene might lead to memetic extinction]].

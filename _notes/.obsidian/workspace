@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "39abbd5ad6b358f5",
+        "id": "7826e9dc6fd55f4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer vision enables visual mnemonic mining.md",
-            "mode": "preview"
+            "file": "Text-based image generation acceleretes reading.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bd2af345f2ae6452",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Knowledge graph connectivity quantifies knowledge work.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "understanding",
+                "query": "explanation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer vision enables visual mnemonic mining.md",
+                "file": "Text-based image generation acceleretes reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +95,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "39abbd5ad6b358f5",
+  "active": "7826e9dc6fd55f4d",
   "lastOpenFiles": [
-    "Computer vision enables visual mnemonic mining.md",
-    "_buffer.md",
-    "Dreaming exploits idiosyncratic neural dynamics.md",
-    "Machine learning ignores progressive nature of human learning.md",
-    "Prefrontal cortex matures in the mid twenties.md",
-    "Multi-modal representations foster understanding.md",
-    "Multimodal mappings generate multimodal receptive fields.md",
     "Untitled.md",
-    "Early second brain suffers from interest misrepresentation.md",
-    "Second brain enables combinatorial explosion of trains of thought.md"
+    "Engineering conceptual gateways catalyzes breakthroughs.md",
+    "Knowledge graph connectivity quantifies knowledge work.md",
+    "Conceptual gateways are like bridges.md",
+    "How are levels of explanations related?.md",
+    "Semantically related notes are conceptual gateways.md",
+    "Rich mental model repository is conductive of insight.md",
+    "Conceptual gateways are like wormholes.md",
+    "Adolescence is exploratory.md",
+    "Maternal warmth in child development is warm-up in machine learning.md"
   ]
 }
