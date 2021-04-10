@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "How can one's knowledge be selectively exposed through a conversational interface?.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3cdc5ba269f88ad7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "_buffer.md",
             "mode": "source"
           }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "explanation",
+                "query": "palace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "How can one's knowledge be selectively exposed through a conversational interface?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +99,15 @@
   },
   "active": "bd2af345f2ae6452",
   "lastOpenFiles": [
-    "_buffer.md",
-    "Knowledge graph connectivity quantifies knowledge work.md",
-    "Text-based image generation accelerates reading.md",
-    "Text-based image generation acceleretes reading.md",
     "Untitled.md",
+    "Profit-based information landscapes are debilitating for their inhabitants.md",
+    "_buffer.md",
+    "Text-based image generation accelerates reading.md",
+    "Knowledge graph connectivity quantifies knowledge work.md",
+    "Text-based image generation acceleretes reading.md",
     "Engineering conceptual gateways catalyzes breakthroughs.md",
     "Conceptual gateways are like bridges.md",
     "How are levels of explanations related?.md",
-    "Semantically related notes are conceptual gateways.md",
-    "Rich mental model repository is conductive of insight.md"
+    "Semantically related notes are conceptual gateways.md"
   ]
 }
