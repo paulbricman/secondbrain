@@ -4,25 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2af345f2ae6452",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Carbon chauvinism denies artificial general intelligence.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "3cdc5ba269f88ad7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
-            "mode": "source"
+            "file": "Mental models are constellations.md",
+            "mode": "preview"
           }
+        }
+      },
+      {
+        "id": "e6b0eb4fc1176e1c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -50,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shovin",
+                "query": "transcription",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carbon chauvinism denies artificial general intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +93,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bd2af345f2ae6452",
+  "active": "e6b0eb4fc1176e1c",
   "lastOpenFiles": [
-    "Carbon shovinism denies artificial general intelligence.md",
-    "How can one's knowledge be selectively exposed through a conversational interface?.md",
-    "Untitled.md",
-    "Profit-based information landscapes are debilitating for their inhabitants.md",
     "_buffer.md",
-    "Text-based image generation accelerates reading.md",
-    "Knowledge graph connectivity quantifies knowledge work.md",
-    "Text-based image generation acceleretes reading.md",
+    "Untitled.md",
+    "Live experience sharing makes expertise accessible.md",
     "Engineering conceptual gateways catalyzes breakthroughs.md",
-    "Conceptual gateways are like bridges.md"
+    "Rich mental model repository is conductive of insight.md",
+    "Genes are like recipes for proteins.md",
+    "Brains mature through pruning.md",
+    "Incremental writing is a foraging strategy.md",
+    "Environment have prenatal effects.md",
+    "Adolescence is exploratory.md"
   ]
 }
