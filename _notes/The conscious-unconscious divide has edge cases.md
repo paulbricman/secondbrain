@@ -1,4 +1,4 @@
 ---
 ---
 
-The Edward argument talks about a scientist interested in locating the sense of hearing in a spider, who after removing its legs concludes that it's located in there. There seems to be a close connection between correlation/causation, necessity/sufficiency, and constraints. Reporting guidelines for participants may be a confounding variable in consciousness studies. Blindsight patients make it tricky to define the border between evidence for conscious and unconscious processing, like in forced choice guessing. Lamme argues that introspection is an unreliable indicator of consciousness. Asking for overt responses biases attention. Social alignment biases responses in 2AFC experiments. Attention modulates consciousness, but is an independent process. Attention is not required for visual awareness.
+Blindsight patients make it tricky to [[Categorical perception translates in a blindspot for other taxonomies|define the border]] between evidence for conscious and unconscious processing, due to their atypical performance in [[Perception is context-dependent|perceptual decision tasks]].

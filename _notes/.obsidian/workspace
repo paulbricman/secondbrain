@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Conceptors induce neural dynamics.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "a7f8fbddbe10a2a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "_buffer.md",
             "mode": "source"
           }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "malicious",
+                "query": "crucial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,17 +97,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3421156d21d5326a",
+  "active": "a7f8fbddbe10a2a0",
   "lastOpenFiles": [
     "_buffer.md",
-    "Human emulations induce feeling of disposability.md",
     "Untitled.md",
-    "Human emulations enable impersonation attacks.md",
     "Evolution enabled cognition, which enabled computation.md",
-    "Adolescence is exploratory.md",
-    "Mental models are constellations.md",
-    "Live experience sharing makes expertise accessible.md",
-    "Engineering conceptual gateways catalyzes breakthroughs.md",
-    "Rich mental model repository is conductive of insight.md"
+    "Genotype-phenotype mapping is highly non-linear.md",
+    "Pleiotropy challenges adaptationism.md",
+    "Object-oriented programming idealizes genetics.md",
+    "Malicious memory cues distort the past.md",
+    "Exosomatic memories are cues.md",
+    "Second brain contents resemble long-term memory.md",
+    "Long-term potentiation and depression underlie Hebbian plasticity.md"
   ]
 }
