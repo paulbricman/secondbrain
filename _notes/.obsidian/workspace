@@ -7,8 +7,11 @@
         "id": "a7f8fbddbe10a2a0",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_buffer.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,10 +88,10 @@
   },
   "active": "a7f8fbddbe10a2a0",
   "lastOpenFiles": [
+    "_buffer.md",
     "Organism and ecology are codetermined.md",
     "Migrator lineage correlates with novelty seeking genes.md",
     "Adolescence is exploratory.md",
-    "_buffer.md",
     "Untitled.md",
     "Text mining can be decoupled into information extraction and traditional question answering.md",
     "Catharsis decreases stress.md",
