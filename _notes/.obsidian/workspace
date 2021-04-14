@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3421156d21d5326a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conceptors induce neural dynamics.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "a7f8fbddbe10a2a0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_buffer.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -50,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crucial",
+                "query": "behave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +84,15 @@
   },
   "active": "a7f8fbddbe10a2a0",
   "lastOpenFiles": [
+    "Organism and ecology are codetermined.md",
+    "Migrator lineage correlates with novelty seeking genes.md",
+    "Adolescence is exploratory.md",
     "_buffer.md",
     "Untitled.md",
-    "Evolution enabled cognition, which enabled computation.md",
-    "Genotype-phenotype mapping is highly non-linear.md",
-    "Pleiotropy challenges adaptationism.md",
-    "Object-oriented programming idealizes genetics.md",
-    "Malicious memory cues distort the past.md",
-    "Exosomatic memories are cues.md",
-    "Second brain contents resemble long-term memory.md",
-    "Long-term potentiation and depression underlie Hebbian plasticity.md"
+    "Text mining can be decoupled into information extraction and traditional question answering.md",
+    "Catharsis decreases stress.md",
+    "Tokenization for i+1 language learning is non-trivial.md",
+    "Tokenization for enabling i+1 language learning is non-trivial.md",
+    "Evolution enabled cognition, which enabled computation.md"
   ]
 }
