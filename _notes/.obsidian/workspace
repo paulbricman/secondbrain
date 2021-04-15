@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "behave",
+                "query": "inertia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,14 +89,14 @@
   "active": "a7f8fbddbe10a2a0",
   "lastOpenFiles": [
     "_buffer.md",
-    "Organism and ecology are codetermined.md",
-    "Migrator lineage correlates with novelty seeking genes.md",
-    "Adolescence is exploratory.md",
+    "Collective memory is cultural equivalent of organic memory.md",
+    "Neural activity is like airflow.md",
     "Untitled.md",
-    "Text mining can be decoupled into information extraction and traditional question answering.md",
-    "Catharsis decreases stress.md",
-    "Tokenization for i+1 language learning is non-trivial.md",
-    "Tokenization for enabling i+1 language learning is non-trivial.md",
-    "Evolution enabled cognition, which enabled computation.md"
+    "Memory is like a manuscript.md",
+    "Mental model reconstruction is like malicious face recognition.md",
+    "Poverty amid plenty predicts health and crime.md",
+    "Adolescence is exploratory.md",
+    "Supervised learning is argmin in hypothesis space of model architecture.md",
+    "Argmin and argmax formalize optimization.md"
   ]
 }
