@@ -1,0 +1,2 @@
+I"0<p>Due to the fact that <a class="internal-link" href="/secondbrain/supervised-learning-assumes-underlying-structure">supervised learning assumes an underlying mapping combined with noise</a>, a larger dataset provides a clearer picture of the underlying function, as the many instances of noise cancel out. In contrast, a smaller dataset doesn’t provide the opporunity for the <a class="internal-link" href="/secondbrain/supervised-learning-assumes-underlying-structure">supervised model</a> to properly pick out the underlying function from the noise.</p>
+:ET

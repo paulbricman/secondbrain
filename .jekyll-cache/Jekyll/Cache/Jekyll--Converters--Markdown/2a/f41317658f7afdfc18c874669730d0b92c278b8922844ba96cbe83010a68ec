@@ -1,0 +1,2 @@
+I"÷<p>As <a class="internal-link" href="/secondbrain/supervised-learning-assumes-underlying-structure">supervised learning is used to approximate an underlying mapping</a> across spaces with higher and higher dimensionality, the <a class="internal-link" href="/secondbrain/supervised-learning-is-argmin-in-hypothesis-space-of-model-architecture">model</a> becomes more prone to overfitting. Specific tricks like regularization and adapting model flexibility are used to tackle this Lovecraftian issue.</p>
+:ET

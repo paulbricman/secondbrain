@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
+            "file": "Human emulation provides therapeutic allocentric perspective.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inertia",
+                "query": "educational resources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Human emulation provides therapeutic allocentric perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a7f8fbddbe10a2a0",
   "lastOpenFiles": [
-    "_buffer.md",
-    "Collective memory is cultural equivalent of organic memory.md",
-    "Neural activity is like airflow.md",
-    "Untitled.md",
-    "Memory is like a manuscript.md",
-    "Mental model reconstruction is like malicious face recognition.md",
-    "Poverty amid plenty predicts health and crime.md",
+    "Human emulation provides therapeutic allocentric perspective.md",
     "Adolescence is exploratory.md",
-    "Supervised learning is argmin in hypothesis space of model architecture.md",
-    "Argmin and argmax formalize optimization.md"
+    "Untitled.md",
+    "Religion traits correlate with environment features.md",
+    "_buffer.md",
+    "Doughnut economics combines planetary and social boundaries in sustainability.md",
+    "Regularization penalizes flexibility.md",
+    "Curse of dimensionality hinders high-dimensional mappings.md",
+    "Dataset size influences impact of noise.md",
+    "One-hot encodings are basis vectors in type space.md"
   ]
 }
