@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Human emulation provides therapeutic allocentric perspective.md",
+            "file": "_buffer.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Human emulation provides therapeutic allocentric perspective.md",
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "a7f8fbddbe10a2a0",
   "lastOpenFiles": [
+    "_buffer.md",
     "Human emulation provides therapeutic allocentric perspective.md",
     "Adolescence is exploratory.md",
     "Untitled.md",
     "Religion traits correlate with environment features.md",
-    "_buffer.md",
     "Doughnut economics combines planetary and social boundaries in sustainability.md",
     "Regularization penalizes flexibility.md",
     "Curse of dimensionality hinders high-dimensional mappings.md",
