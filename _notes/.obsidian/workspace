@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "educational resources",
+                "query": "social",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,14 +89,14 @@
   "active": "a7f8fbddbe10a2a0",
   "lastOpenFiles": [
     "_buffer.md",
+    "Untitled.md",
+    "Memory is perception of structural artifacts.md",
+    "Self-play is peer pressure in reinforcement learning.md",
+    "Framing math problems socially improves performance.md",
+    "How can you acquire tacit knowledge effectively?.md",
     "Human emulation provides therapeutic allocentric perspective.md",
     "Adolescence is exploratory.md",
-    "Untitled.md",
     "Religion traits correlate with environment features.md",
-    "Doughnut economics combines planetary and social boundaries in sustainability.md",
-    "Regularization penalizes flexibility.md",
-    "Curse of dimensionality hinders high-dimensional mappings.md",
-    "Dataset size influences impact of noise.md",
-    "One-hot encodings are basis vectors in type space.md"
+    "Doughnut economics combines planetary and social boundaries in sustainability.md"
   ]
 }
