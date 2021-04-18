@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f8fbddbe10a2a0",
+        "id": "6f45a29f89d1c77e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "social",
+                "query": "behave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a7f8fbddbe10a2a0",
+  "active": "6f45a29f89d1c77e",
   "lastOpenFiles": [
     "_buffer.md",
+    "Long-term potentiation and depression underlie Hebbian plasticity.md",
+    "Environment have prenatal effects.md",
+    "Genotype and phenotype are like recipe and taste.md",
+    "Adolescence is exploratory.md",
     "Untitled.md",
     "Memory is perception of structural artifacts.md",
     "Self-play is peer pressure in reinforcement learning.md",
     "Framing math problems socially improves performance.md",
-    "How can you acquire tacit knowledge effectively?.md",
-    "Human emulation provides therapeutic allocentric perspective.md",
-    "Adolescence is exploratory.md",
-    "Religion traits correlate with environment features.md",
-    "Doughnut economics combines planetary and social boundaries in sustainability.md"
+    "How can you acquire tacit knowledge effectively?.md"
   ]
 }
