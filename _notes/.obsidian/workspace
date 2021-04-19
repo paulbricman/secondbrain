@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
-            "mode": "source"
+            "file": "Cognitive augmentation is morally unambiguous when rehabilitative.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "behave",
+                "query": "mirror",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Cognitive augmentation is morally unambiguous when rehabilitative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "6f45a29f89d1c77e",
   "lastOpenFiles": [
+    "Cognitive augmentation is morally unambiguous when rehabilitative.md",
+    "Sprandels portrays exaptation.md",
     "_buffer.md",
+    "Adolescence is exploratory.md",
+    "Untitled.md",
     "Long-term potentiation and depression underlie Hebbian plasticity.md",
     "Environment have prenatal effects.md",
     "Genotype and phenotype are like recipe and taste.md",
-    "Adolescence is exploratory.md",
-    "Untitled.md",
     "Memory is perception of structural artifacts.md",
-    "Self-play is peer pressure in reinforcement learning.md",
-    "Framing math problems socially improves performance.md",
-    "How can you acquire tacit knowledge effectively?.md"
+    "Self-play is peer pressure in reinforcement learning.md"
   ]
 }
