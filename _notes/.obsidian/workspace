@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cognitive augmentation is morally unambiguous when rehabilitative.md",
-            "mode": "preview"
+            "file": "_buffer.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mirror",
+                "query": "buffer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive augmentation is morally unambiguous when rehabilitative.md",
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "6f45a29f89d1c77e",
   "lastOpenFiles": [
+    "_buffer.md",
     "Cognitive augmentation is morally unambiguous when rehabilitative.md",
     "Sprandels portrays exaptation.md",
-    "_buffer.md",
     "Adolescence is exploratory.md",
     "Untitled.md",
     "Long-term potentiation and depression underlie Hebbian plasticity.md",
