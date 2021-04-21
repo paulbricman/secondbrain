@@ -1,0 +1,13 @@
+I"½<table>
+  <tbody>
+    <tr>
+      <td>Many NLP tasks can be framed as [[Creativity is based on search, not generation</td>
+      <td>text generation tasks]]. If you [[Recovery and matching provide self-supervised signals</td>
+      <td>train a language model]] to [[Forecasting forces predictive world models to internalize meaningful representations</td>
+      <td>autoregressively generate text]], you get a model able to [[Few-shot regime enables extreme customization</td>
+      <td>extrapolate on a handful of examples of a custom task]]. This avoids the burden of [[Pretrained models are universal computation engines</td>
+      <td>fine-tuning on new tasks]].</td>
+    </tr>
+  </tbody>
+</table>
+:ET
