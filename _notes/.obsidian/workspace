@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Deep learning enables simple chained transformations.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9bfb5ccff847aab0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "_buffer.md",
             "mode": "source"
           }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task",
+                "query": "flexibility",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343
   },
   "right": {
     "id": "bd6a90b6f24db9c6",
@@ -84,19 +95,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e9dbfb90d7770a0e",
+  "active": "9bfb5ccff847aab0",
   "lastOpenFiles": [
     "_buffer.md",
-    "H is a framework for factored cognition design.md",
+    "Deep learning enables simple chained transformations.md",
+    "Universal approximation theorem describes extreme expressivity of perceptrons.md",
     "Untitled.md",
-    "Social brain hypothesis places sociality at the core of neocortex evolution.md",
-    "Adolescence is exploratory.md",
-    "Language models are few-shot learners.md",
-    "Interpersonal backlinks incentivize collaborative knowledge work.md",
-    "Classes are prototypes, objects are exemplars.md",
-    "Pretrained models are universal computation engines.md",
-    "Cognitive augmentation is morally unambiguous when rehabilitative.md"
+    "Dualscript enables iterated amplification.md",
+    "One-on-one tutoring yields results two standard deviations above class teaching.md",
+    "Allocentric perspective-taking reveals blindspots.md",
+    "Abundance signals fitness.md",
+    "_queue/_queue.md",
+    "queue/_queue.md"
   ]
 }
