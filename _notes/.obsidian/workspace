@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Organic representations can be physical, mental, phenomenal.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "259cdecd9c216287",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "_buffer.md",
             "mode": "source"
           }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flexibility",
+                "query": "alignment with",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Organic representations can be physical, mental, phenomenal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +100,15 @@
   },
   "active": "9bfb5ccff847aab0",
   "lastOpenFiles": [
-    "_buffer.md",
-    "Deep learning enables simple chained transformations.md",
-    "Universal approximation theorem describes extreme expressivity of perceptrons.md",
     "Untitled.md",
-    "Dualscript enables iterated amplification.md",
-    "One-on-one tutoring yields results two standard deviations above class teaching.md",
-    "Allocentric perspective-taking reveals blindspots.md",
-    "Abundance signals fitness.md",
-    "_queue/_queue.md",
-    "queue/_queue.md"
+    "Brain is like hardware, mind is like software.md",
+    "Iterated pruning is a light-weight approach to nudging text generation.md",
+    "_buffer.md",
+    "Iterated pruning is a light-weight way of nudging text generation.md",
+    "Few-shot regime enables extreme customization.md",
+    "Motivated reasoning distorts judgement.md",
+    "Wizard of Oz experiments accelerate prototyping in human-computer interaction.md",
+    "Agitation can be weaponized.md",
+    "Abundance signals fitness.md"
   ]
 }
