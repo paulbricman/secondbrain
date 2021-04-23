@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic representations can be physical, mental, phenomenal.md",
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9bfb5ccff847aab0",
+  "active": "259cdecd9c216287",
   "lastOpenFiles": [
+    "_buffer.md",
+    "Organic representations can be physical, mental, phenomenal.md",
     "Untitled.md",
     "Brain is like hardware, mind is like software.md",
     "Iterated pruning is a light-weight approach to nudging text generation.md",
-    "_buffer.md",
     "Iterated pruning is a light-weight way of nudging text generation.md",
     "Few-shot regime enables extreme customization.md",
     "Motivated reasoning distorts judgement.md",
     "Wizard of Oz experiments accelerate prototyping in human-computer interaction.md",
-    "Agitation can be weaponized.md",
-    "Abundance signals fitness.md"
+    "Agitation can be weaponized.md"
   ]
 }
