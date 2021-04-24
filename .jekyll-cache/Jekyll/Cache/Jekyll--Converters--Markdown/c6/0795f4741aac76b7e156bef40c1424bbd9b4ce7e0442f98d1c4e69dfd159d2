@@ -1,0 +1,13 @@
+I"É<table>
+  <tbody>
+    <tr>
+      <td>Contrary to what many believe, reaching the global optimum through [[End-to-end differentiation enables powerful optimization techniques</td>
+      <td>gradient descent]] is NOT the goal of [[Supervised learning assumes underlying structure</td>
+      <td>supervised learning]]. Reaching the global minimum of the [[Risk is statistical expectation of loss</td>
+      <td>empirical risk surface]] would virtually guarantee [[Regularization penalizes flexibility</td>
+      <td>overfitting]]. Rather, local minima are more than enough, stopping when the [[Regularization penalizes flexibility</td>
+      <td>testing loss starts to increase]].</td>
+    </tr>
+  </tbody>
+</table>
+:ET
