@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "259cdecd9c216287",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Global minimum is not the target in machine learning.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "837d7e951bbfe910",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
-            "mode": "source"
+            "file": "Mental representations connect internal with external state.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alignment with",
+                "query": "signal processing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Mental representations connect internal with external state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +89,15 @@
   },
   "active": "837d7e951bbfe910",
   "lastOpenFiles": [
-    "_buffer.md",
-    "Global minimum is not the target in machine learning.md",
+    "Mental representations connect internal with external state.md",
+    "Cognitive realism versus idealism.md",
     "Untitled.md",
-    "Object-oriented programming idealizes genetics.md",
-    "Verifiability as a minimum requirement streamlines artificial creative output.md",
     "Organic representations can be physical, mental, phenomenal.md",
     "Brain is like hardware, mind is like software.md",
-    "Iterated pruning is a light-weight approach to nudging text generation.md",
-    "Iterated pruning is a light-weight way of nudging text generation.md",
-    "Few-shot regime enables extreme customization.md"
+    "_buffer.md",
+    "Global minimum is not the target in machine learning.md",
+    "Object-oriented programming idealizes genetics.md",
+    "Verifiability as a minimum requirement streamlines artificial creative output.md",
+    "Iterated pruning is a light-weight approach to nudging text generation.md"
   ]
 }
