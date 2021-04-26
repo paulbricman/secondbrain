@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dual enables iterated amplification.md",
+            "file": "_buffer.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual enables iterated amplification.md",
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +88,10 @@
   },
   "active": "9872e7612825c57c",
   "lastOpenFiles": [
+    "_buffer.md",
     "Dual enables iterated amplification.md",
     "Dualscript is a programming natural language for conversational interfaces.md",
     "Dualscript enables iterated amplification.md",
-    "_buffer.md",
     "Untitled.md",
     "Isomorphic representations partially preserve structure.md",
     "Mental representations connect internal with external state.md",
