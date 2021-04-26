@@ -4,21 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "837d7e951bbfe910",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
         "id": "9872e7612825c57c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "_buffer.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -77,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_buffer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,12 +87,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "837d7e951bbfe910",
+  "active": "9872e7612825c57c",
   "lastOpenFiles": [
+    "_buffer.md",
     "Untitled.md",
     "Isomorphic representations partially preserve structure.md",
     "Mental representations connect internal with external state.md",
-    "_buffer.md",
     "Cognitive realism versus idealism.md",
     "Organic representations can be physical, mental, phenomenal.md",
     "Brain is like hardware, mind is like software.md",
