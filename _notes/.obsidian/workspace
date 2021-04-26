@@ -7,9 +7,17 @@
         "id": "837d7e951bbfe910",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "9872e7612825c57c",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Mental representations connect internal with external state.md",
+            "file": "_buffer.md",
             "mode": "preview"
           }
         }
@@ -39,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "signal processing",
+                "query": "binding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +77,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental representations connect internal with external state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +96,15 @@
   },
   "active": "837d7e951bbfe910",
   "lastOpenFiles": [
-    "Mental representations connect internal with external state.md",
-    "Cognitive realism versus idealism.md",
     "Untitled.md",
+    "Isomorphic representations partially preserve structure.md",
+    "Mental representations connect internal with external state.md",
+    "_buffer.md",
+    "Cognitive realism versus idealism.md",
     "Organic representations can be physical, mental, phenomenal.md",
     "Brain is like hardware, mind is like software.md",
-    "_buffer.md",
     "Global minimum is not the target in machine learning.md",
     "Object-oriented programming idealizes genetics.md",
-    "Verifiability as a minimum requirement streamlines artificial creative output.md",
-    "Iterated pruning is a light-weight approach to nudging text generation.md"
+    "Verifiability as a minimum requirement streamlines artificial creative output.md"
   ]
 }
