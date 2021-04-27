@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_buffer.md",
+            "file": "Public opinion formation is memeplex propagation.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "survey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Public opinion formation is memeplex propagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "9872e7612825c57c",
   "lastOpenFiles": [
-    "_buffer.md",
-    "Dual enables iterated amplification.md",
-    "Dualscript is a programming natural language for conversational interfaces.md",
-    "Dualscript enables iterated amplification.md",
-    "Untitled.md",
-    "Isomorphic representations partially preserve structure.md",
+    "Public opinion formation is memeplex propagation.md",
+    "Human API pushes crowdsourcing on the tech stack.md",
+    "Mental simulations are mental representations of possible worlds.md",
     "Mental representations connect internal with external state.md",
-    "Cognitive realism versus idealism.md",
-    "Organic representations can be physical, mental, phenomenal.md",
-    "Brain is like hardware, mind is like software.md"
+    "Phenomenal representations are experienced mental representations.md",
+    "Conscious-unconscious divide has edge cases.md",
+    "Untitled.md",
+    "The conscious-unconscious divide has edge cases.md",
+    "_buffer.md",
+    "Dual enables iterated amplification.md"
   ]
 }
