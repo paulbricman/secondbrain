@@ -1,0 +1,2 @@
+I"<p>Each <a class="internal-link" href="/secondbrain/eigenvectors-are-scaled-by-eigenvalues-in-linear-transformation">linear transformation</a> can be expressed as a matrix. The column vectors of the matrix stand for the new locations of the <a class="internal-link" href="/secondbrain/one-hot-encodings-are-basis-vectors-in-type-space">initial basis vectors</a>. Matrices capture most parameters of a linear layer in <a class="internal-link" href="/secondbrain/supervised-learning-assumes-underlying-structure">supervised learning</a>.</p>
+:ET

@@ -9,6 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Personalized language model perplexity approximates surprisal.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3b8085219094b5be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "_buffer.md",
             "mode": "source"
           }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "survey",
+                "query": "surprisal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_buffer.md",
+                "file": "Personalized language model perplexity approximates surprisal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +100,15 @@
   },
   "active": "9872e7612825c57c",
   "lastOpenFiles": [
-    "_buffer.md",
-    "Public opinion formation is memeplex propagation.md",
-    "Human API pushes crowdsourcing on the tech stack.md",
-    "Mental simulations are mental representations of possible worlds.md",
-    "Mental representations connect internal with external state.md",
-    "Phenomenal representations are experienced mental representations.md",
-    "Conscious-unconscious divide has edge cases.md",
     "Untitled.md",
-    "The conscious-unconscious divide has edge cases.md",
-    "Dual enables iterated amplification.md"
+    "Phenomenal representations are experienced mental representations.md",
+    "Mental representations connect internal with external state.md",
+    "Mental simulations are mental representations of possible worlds.md",
+    "_buffer.md",
+    "PCA provides optimal solution to linear encoding and decoding.md",
+    "Linear transformations are perfectly described by matrices.md",
+    "Eigenvectors are scaled by eigenvalues in linear transformation.md",
+    "Rust is a compiled systems language.md",
+    "Public opinion formation is memeplex propagation.md"
   ]
 }
