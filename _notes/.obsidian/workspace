@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "3b8085219094b5be",
+        "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "universal ",
+                "query": "infant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -83,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b8085219094b5be",
+  "active": "dfbed246c77c225f",
   "lastOpenFiles": [
-    "Intricate functions whose inverse is trivial are easy to approximate.md",
-    "_buffer.md",
+    "Memeplexes resemble grativational attractors.md",
+    "Categorical perception translates in a blindspot for nuance.md",
     "Untitled.md",
+    "Structural stability describes basin of similar dynamical systems.md",
+    "Bifurcations slice space of dynamical systems in basins.md",
+    "Continuous-state dynamical systems share a common structure.md",
+    "Dynamical systems have a certain anatomy.md",
     "Finite-state dynamical systems are diverse.md",
-    "Recurrent networks approximate dynamical systems.md",
-    "Feedforward networks approximate functions.md",
-    "Universal approximation theorem describes extreme expressivity of perceptrons.md",
-    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
-    "Phenomenal space is adaptive.md",
-    "Phenomenal representations are experienced mental representations.md"
+    "Phenomenal representations are experienced mental representations.md",
+    "Phenomenal space is adaptive.md"
   ]
 }
