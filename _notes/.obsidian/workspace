@@ -7,7 +7,7 @@
         "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infant",
+                "query": "perceptron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,15 +85,15 @@
   },
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Training and inference maintain and change different values.md",
+    "Supervised learning assumes underlying structure.md",
+    "End-to-end differentiation enables powerful optimization techniques.md",
+    "Latent spaces have both continuous and discrete properties.md",
+    "_buffer.md",
     "Memeplexes resemble grativational attractors.md",
     "Categorical perception translates in a blindspot for nuance.md",
-    "Untitled.md",
     "Structural stability describes basin of similar dynamical systems.md",
-    "Bifurcations slice space of dynamical systems in basins.md",
-    "Continuous-state dynamical systems share a common structure.md",
-    "Dynamical systems have a certain anatomy.md",
-    "Finite-state dynamical systems are diverse.md",
-    "Phenomenal representations are experienced mental representations.md",
-    "Phenomenal space is adaptive.md"
+    "Bifurcations slice space of dynamical systems in basins.md"
   ]
 }

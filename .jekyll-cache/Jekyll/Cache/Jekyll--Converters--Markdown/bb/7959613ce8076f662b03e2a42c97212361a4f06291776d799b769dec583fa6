@@ -1,0 +1,13 @@
+I"W<table>
+  <tbody>
+    <tr>
+      <td>While [[End-to-end differentiation enables powerful optimization techniques</td>
+      <td>training]] a [[Language models are few-shot learners</td>
+      <td>machine learning model]], the [[Regularization penalizes flexibility</td>
+      <td>training data is fixed]] and the [[Argmin and argmax formalize optimization</td>
+      <td>model parameters are changing]]. In contrast, during [[Few-shot regime enables extreme customization</td>
+      <td>inference]], the model parameters are fixed and the data itself is changing.</td>
+    </tr>
+  </tbody>
+</table>
+:ET
