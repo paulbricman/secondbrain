@@ -7,8 +7,11 @@
         "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Machine learning models have fluid and crystallized intelligence.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perceptron",
+                "query": "wirehea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine learning models have fluid and crystallized intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +89,14 @@
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
     "Untitled.md",
+    "Tacit knowledge in skill acquisition is dark knowledge in machine learning.md",
+    "Intellectual progress has historically been driven by collective knowledge.md",
+    "Wireheading is like addiction.md",
     "Training and inference maintain and change different values.md",
     "Supervised learning assumes underlying structure.md",
     "End-to-end differentiation enables powerful optimization techniques.md",
     "Latent spaces have both continuous and discrete properties.md",
     "_buffer.md",
-    "Memeplexes resemble grativational attractors.md",
-    "Categorical perception translates in a blindspot for nuance.md",
-    "Structural stability describes basin of similar dynamical systems.md",
-    "Bifurcations slice space of dynamical systems in basins.md"
+    "Memeplexes resemble grativational attractors.md"
   ]
 }
