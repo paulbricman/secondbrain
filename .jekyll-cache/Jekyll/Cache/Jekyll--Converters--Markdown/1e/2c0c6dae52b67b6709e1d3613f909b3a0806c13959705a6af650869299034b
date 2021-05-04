@@ -1,0 +1,12 @@
+I"X<table>
+  <tbody>
+    <tr>
+      <td>Due to their [[Recurrent networks approximate dynamical systems</td>
+      <td>recurrent nature]], [[Backpropagation through time makes RNN’s feasible</td>
+      <td>the parameters of RNN’s]] are changed proportional to a partial derivative which is exponential. If larger than one, it often explodes with [[Backpropagation through time makes RNN’s feasible</td>
+      <td>long considered sequences]]. If smaller than one, it often vanishes. [[LSTM’s mitigate RNN issues</td>
+      <td>LSTM’s attempt to solve this]].</td>
+    </tr>
+  </tbody>
+</table>
+:ET

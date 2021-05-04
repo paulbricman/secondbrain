@@ -1,0 +1,2 @@
+I"²<p>Just like <a class="internal-link" href="/secondbrain/streams-formalize-input-output">streams help with I/O</a> and <a class="internal-link" href="/secondbrain/promises-streamline-asynchronous-processing">promises help with asynchronous processing</a>, exceptions help with handling issues at runtime. Through the try-catch pattern, exceptions which are being thrown can be caught and considered during the usual program flow.</p>
+:ET

@@ -1,0 +1,10 @@
+I"·<table>
+  <tbody>
+    <tr>
+      <td>Just like [[Streams formalize input-output</td>
+      <td>streams help with I/O]] and [[Promises streamline asynchronous processing</td>
+      <td>promises help with asynchronous processing]], exceptions help with handling issues at runtime. Through the try-catch pattern, exceptions which are being thrown can be caught and considered during the usual program flow.</td>
+    </tr>
+  </tbody>
+</table>
+:ET
