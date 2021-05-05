@@ -7,8 +7,11 @@
         "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GLOM enables hierarchical representations in continuous spaces.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "copy",
+                "query": "representational",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GLOM enables hierarchical representations in continuous spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
