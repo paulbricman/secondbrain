@@ -1,0 +1,2 @@
+I"á<p>Similar to how <a class="internal-link" href="/secondbrain/promises-streamline-asynchronous-processing">promises streamline asynchronous processing</a>, the model-view-controller design pattern streamlines the implementation of graphical user interfaces. The model holds the <a class="internal-link" href="/secondbrain/dynamical-systems-have-a-certain-anatomy">state</a> of the application, which can be manipulated by the controller and which triggers updates in the view.</p>
+:ET

@@ -7,11 +7,8 @@
         "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GLOM enables hierarchical representations in continuous spaces.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "representational",
+                "query": "concept basin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GLOM enables hierarchical representations in continuous spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +85,14 @@
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
     "Untitled.md",
-    "Dual is a programming natural language for conversational interfaces.md",
-    "Exceptions streamline error handling.md",
-    "LSTM's mitigate RNN issues.md",
-    "Dynamical systems have memory.md",
+    "Hopfield networks are energy-based memory models.md",
+    "Understanding is remembering in disguise.md",
+    "Categorical perception translates in a blindspot for nuance.md",
+    "Meshing discretizes continuous spaces.md",
     "Argmin and argmax formalize optimization.md",
-    "Experiential scarcity fosters appreciation.md",
-    "Ganzfeld stimulation collapses consious experience.md",
-    "Phenomenal space is adaptive.md",
-    "machine learning is biased.md"
+    "Attractors and repellors have opposite behaviors in dynamical systems.md",
+    "Agitation can be weaponized.md",
+    "Finite-state dynamical systems are diverse.md",
+    "GLOM enables hierarchical representations in continuous spaces.md"
   ]
 }

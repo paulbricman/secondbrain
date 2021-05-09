@@ -1,0 +1,11 @@
+I"z<table>
+  <tbody>
+    <tr>
+      <td>When dealing with [[Continuous-state dynamical systems share a common structure</td>
+      <td>continuous spaces]], it’s often useful to discretize them to be able to use the advanced mathematical machinery available for discrete systems. This can be done with meshing, a family of techniques for performing this [[Supervised learning assumes underlying structure</td>
+      <td>mapping]]. However, [[Discrete structure embeddings in continuous space are glitchy</td>
+      <td>discrete-continuous transformations are glitchy]] and inevitably result in error.</td>
+    </tr>
+  </tbody>
+</table>
+:ET
