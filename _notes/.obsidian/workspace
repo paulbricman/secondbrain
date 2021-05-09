@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concept basin",
+                "query": "input",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,15 +85,15 @@
   },
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Hopfield networks are energy-based memory models.md",
-    "Understanding is remembering in disguise.md",
-    "Categorical perception translates in a blindspot for nuance.md",
-    "Meshing discretizes continuous spaces.md",
-    "Argmin and argmax formalize optimization.md",
-    "Attractors and repellors have opposite behaviors in dynamical systems.md",
-    "Agitation can be weaponized.md",
-    "Finite-state dynamical systems are diverse.md",
-    "GLOM enables hierarchical representations in continuous spaces.md"
+    "Dynamical systems have a certain anatomy.md",
+    "Deep learning enables simple chained transformations.md",
+    "Dataset size influences impact of noise.md",
+    "Curse of dimensionality hinders high-dimensional mappings.md",
+    "Cosine similarity is magnitude-agnostic.md",
+    "Continuous-state dynamical systems share a common structure.md",
+    "Bifurcations slice space of dynamical systems in basins.md",
+    "Bifurcations explain discontinuous child development stages.md",
+    "Backpropagation through time makes RNN's feasible.md",
+    "Untitled.md"
   ]
 }
