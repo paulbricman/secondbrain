@@ -1,0 +1,10 @@
+I"{<table>
+  <tbody>
+    <tr>
+      <td>Differential equations describe how [[Training and inference maintain and change different values</td>
+      <td>changes in some functions result in changes in some other functions]], recursively. When only considering [[Intricate functions whose inverse is trivial are easy to approximate</td>
+      <td>functions of one variable]] (usually time), they’re called ordinary differential equations. When considering functions of multiple variables, and therefore using partial derivatives rather than derivatives, they’re called partial differential equations.</td>
+    </tr>
+  </tbody>
+</table>
+:ET

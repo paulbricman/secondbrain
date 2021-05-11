@@ -7,6 +7,17 @@
         "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Multi-modal encoders enable cross-modal guidance in latent space.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ba92ce10220ded79",
+        "type": "leaf",
+        "state": {
           "type": "graph",
           "state": {}
         }
@@ -36,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "input",
+                "query": "multimodal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Multi-modal encoders enable cross-modal guidance in latent space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +97,15 @@
   },
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
+    "Multi-modal encoders enable cross-modal guidance in latent space.md",
+    "Multi-modal mappings generate multi-modal receptive fields.md",
+    "Dynamic core enables consciousness.md",
+    "Multi-modal mappings generate multimodal receptive fields.md",
+    "Untitled.md",
+    "Dynamical core enables consciousness.md",
+    "Phenomenal space is adaptive.md",
     "Dynamical systems have a certain anatomy.md",
     "Deep learning enables simple chained transformations.md",
-    "Dataset size influences impact of noise.md",
-    "Curse of dimensionality hinders high-dimensional mappings.md",
-    "Cosine similarity is magnitude-agnostic.md",
-    "Continuous-state dynamical systems share a common structure.md",
-    "Bifurcations slice space of dynamical systems in basins.md",
-    "Bifurcations explain discontinuous child development stages.md",
-    "Backpropagation through time makes RNN's feasible.md",
-    "Untitled.md"
+    "Dataset size influences impact of noise.md"
   ]
 }
