@@ -1,0 +1,2 @@
+I"§<p>In many <a class="internal-link" href="/secondbrain/object-oriented-programming-idealizes-genetics">object-oriented programming settings</a>, the subscribe-notify pattern helps objects interact. Multiple objects typically subscribe, listen, or observe another one. Whenever the observed objects fires <a class="internal-link" href="/secondbrain/tense-logic-formalizes-time">events</a>, all subscribers are notified.</p>
+:ET
