@@ -1,0 +1,11 @@
+I"`<table>
+  <tbody>
+    <tr>
+      <td>Any [[Feedforward networks approximate functions</td>
+      <td>function]] can be written as an infinite sum of [[Cosine similarity is magnitude-agnostic</td>
+      <td>cosines]], or decently approximated through a finite sum of them. What’s more, cosines behave very predictably in the [[Differential equations can be ordinary or partial</td>
+      <td>heat equation]], and those are linear. Therefore, cosine sum approximation of functions makes finding an approximate solution to the heat equation for any given function feasible.</td>
+    </tr>
+  </tbody>
+</table>
+:ET

@@ -7,11 +7,8 @@
         "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Creation time informs retrieval of relevant documents.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time informs",
+                "query": "monte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creation time informs retrieval of relevant documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +85,15 @@
   },
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
-    "Creation time informs retrieval of relevant documents.md",
-    "Phenomenal representations are constrained mental representations.md",
-    "Phenomenal representations are experienced mental representations.md",
-    "Phenomenal space is adaptive.md",
+    "People seek retribution.md",
+    "Copyright concerns hinder cognitive augmentation.md",
+    "Darwinism infuses enaction with realism.md",
+    "Batching in machine learning is like baking.md",
+    "Meditation is a form of reflection.md",
+    "Misogi radically modifies affordances.md",
     "Untitled.md",
-    "Experiential scarcity fosters appreciation.md",
-    "Attention is a competition.md",
-    "Exemplar search results in gradually less representative items.md",
-    "Multi-modal encoders enable cross-modal guidance in latent space.md",
-    "Multi-modal mappings generate multi-modal receptive fields.md"
+    "MCMC is feasibe compared to IID sampling.md",
+    "Boltzmann distribution links macrostates with probability of microstates.md",
+    "Feedforward networks approximate functions.md"
   ]
 }
