@@ -7,8 +7,11 @@
         "id": "dfbed246c77c225f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Constraining text generation to existing strings enables extraction.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monte",
+                "query": "coherence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Constraining text generation to existing strings enables extraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
-    "People seek retribution.md",
-    "Copyright concerns hinder cognitive augmentation.md",
-    "Darwinism infuses enaction with realism.md",
-    "Batching in machine learning is like baking.md",
-    "Meditation is a form of reflection.md",
-    "Misogi radically modifies affordances.md",
     "Untitled.md",
-    "MCMC is feasibe compared to IID sampling.md",
-    "Boltzmann distribution links macrostates with probability of microstates.md",
-    "Feedforward networks approximate functions.md"
+    "LSTM's mitigate RNN issues.md",
+    "DS can be entrained by input.md",
+    "Argmin and argmax formalize optimization.md",
+    "Cluster index quantifies internal-external connectivity.md",
+    "Phenomenal (re)presentations have bottom-up and top-down influences.md",
+    "Phenomenal representations are constrained mental representations.md",
+    "Embeddings in machine learning represent prototypes informed by exemplars.md",
+    "People seek retribution.md",
+    "Copyright concerns hinder cognitive augmentation.md"
   ]
 }

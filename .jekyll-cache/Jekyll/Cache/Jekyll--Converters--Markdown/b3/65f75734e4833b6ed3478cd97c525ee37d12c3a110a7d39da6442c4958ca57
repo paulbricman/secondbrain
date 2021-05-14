@@ -1,0 +1,15 @@
+I"z<table>
+  <tbody>
+    <tr>
+      <td>In most applications, [[Supervised learning assumes underlying structure</td>
+      <td>machine learning models]], such as [[Feedforward networks approximate functions</td>
+      <td>simple feedforward networks]] perform [[Few-shot regime enables extreme customization</td>
+      <td>inference]] by [[Spatial metaphors provide primitives for latent space navigation</td>
+      <td>interpolating]] the [[Embeddings in machine learning represent prototypes or exemplars</td>
+      <td>latent space]] derived through [[Pretrained models are universal computation engines</td>
+      <td>training]]. Therefore, those models have trouble generalizing beyond the domain of [[Risk is statistical expectation of loss</td>
+      <td>training data]]. Program synthesis, in contrast, attempts to generalize through extrapolation.</td>
+    </tr>
+  </tbody>
+</table>
+:ET
