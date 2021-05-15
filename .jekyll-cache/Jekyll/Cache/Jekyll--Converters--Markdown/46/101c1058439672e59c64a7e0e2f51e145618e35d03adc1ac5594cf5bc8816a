@@ -1,0 +1,12 @@
+I"¶<table>
+  <tbody>
+    <tr>
+      <td>In [[Supervised learning assumes underlying structure</td>
+      <td>supervised learning]], simple perceptrons have been shown to be able to [[Regularization penalizes flexibility</td>
+      <td>accurately describe an extremely broad family of functions]]. However, they would need an extremely wide single layer to do this, sometimes even larger than there are atoms in the universe, making it [[Restricted Boltzmann machine renders Boltzmann machine feasible</td>
+      <td>unfeasible to train]]. In light of this [[Deep learning enables simple chained transformations</td>
+      <td>deep learning is more economical]].</td>
+    </tr>
+  </tbody>
+</table>
+:ET
