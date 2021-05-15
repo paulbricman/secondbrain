@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
+            "file": "Boltzmann machine is a universal learning machine.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai.rug",
+                "query": "inputs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
+                "file": "Boltzmann machine is a universal learning machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
-    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
+    "Boltzmann machine is a universal learning machine.md",
+    "Restricted Boltzmann machine renders Boltzmann machine feasible.md",
+    "Clamping neurons fixes their activation.md",
+    "inputs are clamped.md",
+    "KL-divergence formalizes difference between discrete probability distributions.md",
     "Argmin and argmax formalize optimization.md",
-    "Constraining text generation to existing strings enables extraction.md",
     "Untitled.md",
-    "LSTM's mitigate RNN issues.md",
-    "DS can be entrained by input.md",
-    "Cluster index quantifies internal-external connectivity.md",
-    "Phenomenal (re)presentations have bottom-up and top-down influences.md",
-    "Phenomenal representations are constrained mental representations.md",
-    "Embeddings in machine learning represent prototypes informed by exemplars.md"
+    "GLOM enables hierarchical representations in continuous spaces.md",
+    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
+    "Constraining text generation to existing strings enables extraction.md"
   ]
 }
