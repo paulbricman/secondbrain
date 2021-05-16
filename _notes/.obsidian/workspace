@@ -50,7 +50,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 343,
+    "collapsed": true
   },
   "right": {
     "id": "bd6a90b6f24db9c6",
@@ -85,6 +86,7 @@
   },
   "active": "dfbed246c77c225f",
   "lastOpenFiles": [
+    "Dual is a programming natural language for conversational interfaces.md",
     "Finite-state dynamical systems are diverse.md",
     "Feedforward networks approximate functions.md",
     "KL-divergence formalizes difference between discrete probability distributions.md",
@@ -93,7 +95,6 @@
     "Intricate functions whose inverse is trivial are easy to approximate.md",
     "Dynamical systems have a certain anatomy.md",
     "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
-    "Deep learning enables simple chained transformations.md",
-    "Dataset size influences impact of noise.md"
+    "Deep learning enables simple chained transformations.md"
   ]
 }
