@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "dfbed246c77c225f",
+        "id": "2c789126637e5416",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -84,17 +84,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfbed246c77c225f",
+  "active": "2c789126637e5416",
   "lastOpenFiles": [
-    "Dual is a programming natural language for conversational interfaces.md",
-    "Finite-state dynamical systems are diverse.md",
-    "Feedforward networks approximate functions.md",
-    "KL-divergence formalizes difference between discrete probability distributions.md",
+    "Neural dynamicity has evolutionary advantages.md",
+    "Phenomenal space is adaptive.md",
+    "Untitled.md",
+    "GLOM enables hierarchical representations in continuous spaces.md",
+    "Phenomenal representations are constrained mental representations.md",
+    "Attention distorts time.md",
     "Dynamical systems have memory.md",
-    "LSTM's mitigate RNN issues.md",
-    "Intricate functions whose inverse is trivial are easy to approximate.md",
     "Dynamical systems have a certain anatomy.md",
     "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
-    "Deep learning enables simple chained transformations.md"
+    "Hopfield networks are energy-based memory models.md"
   ]
 }

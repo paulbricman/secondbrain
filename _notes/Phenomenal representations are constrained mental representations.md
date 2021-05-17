@@ -6,3 +6,5 @@ Metzinger introduces a number of constraints which presumably enable [[Phenomena
 1. Global availability
 2. Presence
 3. Global coherence
+4. Convolved holism
+5. Dynamicity

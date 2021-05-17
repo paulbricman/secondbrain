@@ -5,6 +5,9 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
+| [[Dynamical systems have memory]] | 40.7 |  | 2 | 2021-05-16 |
+| [[KL-divergence formalizes difference between discrete probability distributions]] | 42.84 |  | 2 | 2021-05-16 |
+| [[Feedforward networks approximate functions]] | 44.4 |  | 2 | 2021-05-16 |
 | [[Finite-state dynamical systems are diverse]] | 48.1 |  | 1 | 1970-01-01 |
 | [[MCMC is feasibe compared to IID sampling]] | 49.98 |  | 1 | 1970-01-01 |
 | [[Global minimum is not the target in machine learning]] | 51.8 |  | 1 | 1970-01-01 |
@@ -27,22 +30,19 @@ interval: 1
 | [[Understanding is remembering in disguise]] | 92.82 |  | 1 | 1970-01-01 |
 | [[Vanilla RNN's often run into vanishing and exploding gradients]] | 96.2 |  | 1 | 1970-01-01 |
 | [[Argmin and argmax formalize optimization]] | 0 |  | 4 | 2021-05-17 |
-| [[Boltzmann distribution links macrostates with probability of microstates]] | 0 |  | 2 | 2021-05-16 |
+| [[Boltzmann distribution links macrostates with probability of microstates]] | 0 |  | 4 | 2021-05-18 |
 | [[Attractors and repellors have opposite behaviors in dynamical systems]] | 3.7 |  | 4 | 2021-05-17 |
-| [[Boltzmann machine is a universal learning machine]] | 7.14 |  | 2 | 2021-05-16 |
+| [[Boltzmann machine is a universal learning machine]] | 7.14 |  | 4 | 2021-05-18 |
 | [[Backpropagation through time makes RNN's feasible]] | 7.4 |  | 4 | 2021-05-17 |
 | [[Bifurcations explain discontinuous child development stages]] | 11.1 |  | 4 | 2021-05-17 |
-| [[Clamping neurons fixes their activation]] | 14.28 |  | 2 | 2021-05-16 |
+| [[Clamping neurons fixes their activation]] | 14.28 |  | 4 | 2021-05-18 |
 | [[Bifurcations segment space of dynamical systems in basins]] | 14.8 |  | 4 | 2021-05-17 |
 | [[Continuous-state dynamical systems share a common structure]] | 18.5 |  | 4 | 2021-05-17 |
-| [[DS can be entrained by input]] | 21.42 |  | 2 | 2021-05-16 |
+| [[DS can be entrained by input]] | 21.42 |  | 4 | 2021-05-18 |
 | [[Cosine similarity is magnitude-agnostic]] | 22.2 |  | 4 | 2021-05-17 |
 | [[Curse of dimensionality hinders high-dimensional mappings]] | 25.9 |  | 4 | 2021-05-17 |
-| [[Hopfield networks are energy-based memory models]] | 28.56 |  | 2 | 2021-05-16 |
+| [[Hopfield networks are energy-based memory models]] | 28.56 |  | 4 | 2021-05-18 |
 | [[Dataset size influences impact of noise]] | 29.6 |  | 4 | 2021-05-17 |
 | [[Deep learning enables simple chained transformations]] | 33.3 |  | 4 | 2021-05-17 |
-| [[Joint, marginal, and conditional probabilities are primitives of probability theory]] | 35.7 |  | 2 | 2021-05-16 |
-| [[Dynamical systems have a certain anatomy]] | 37 |  | 2 | 2021-05-16 |
-| [[Dynamical systems have memory]] | 40.7 |  | 2 | 2021-05-16 |
-| [[KL-divergence formalizes difference between discrete probability distributions]] | 42.84 |  | 2 | 2021-05-16 |
-| [[Feedforward networks approximate functions]] | 44.4 |  | 2 | 2021-05-16 |
+| [[Joint, marginal, and conditional probabilities are primitives of probability theory]] | 35.7 |  | 4 | 2021-05-18 |
+| [[Dynamical systems have a certain anatomy]] | 37 |  | 4 | 2021-05-18 |
