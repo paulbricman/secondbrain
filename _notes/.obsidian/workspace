@@ -4,25 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c789126637e5416",
+        "id": "b3273c6fd9f127ef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Finite-state dynamical systems are diverse.md",
+            "file": "_queues/_queue.md",
             "mode": "source"
           }
-        },
-        "group": "7f06a5d8cbe9b3e5"
-      },
-      {
-        "id": "6d960ad10e75a40f",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "7f06a5d8cbe9b3e5"
+        }
       }
     ],
     "direction": "vertical"
@@ -58,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 343,
-    "collapsed": true
+    "width": 343
   },
   "right": {
     "id": "bd6a90b6f24db9c6",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finite-state dynamical systems are diverse.md",
+                "file": "_queues/_queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c789126637e5416",
+  "active": "b3273c6fd9f127ef",
   "lastOpenFiles": [
+    "_queues/_queue.md",
+    "MCMC is feasibe compared to IID sampling.md",
+    "_queues/IW-Queue.md",
     "Finite-state dynamical systems are diverse.md",
     "Feedforward networks approximate functions.md",
     "KL-divergence formalizes difference between discrete probability distributions.md",
     "Dynamical systems have memory.md",
     "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
     "Dynamical systems have a certain anatomy.md",
-    "Deep learning enables simple chained transformations.md",
-    "Dataset size influences impact of noise.md",
-    "Hopfield networks are energy-based memory models.md",
-    "Curse of dimensionality hinders high-dimensional mappings.md"
+    "Deep learning enables simple chained transformations.md"
   ]
 }

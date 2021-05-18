@@ -5,7 +5,6 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
-| [[Finite-state dynamical systems are diverse]] | 48.1 |  | 1 | 1970-01-01 |
 | [[MCMC is feasibe compared to IID sampling]] | 49.98 |  | 1 | 1970-01-01 |
 | [[Global minimum is not the target in machine learning]] | 51.8 |  | 1 | 1970-01-01 |
 | [[LSTM's mitigate RNN issues]] | 55.5 |  | 1 | 1970-01-01 |
@@ -46,3 +45,4 @@ interval: 1
 | [[Dynamical systems have memory]] | 40.7 |  | 4 | 2021-05-20 |
 | [[KL-divergence formalizes difference between discrete probability distributions]] | 42.84 |  | 4 | 2021-05-20 |
 | [[Feedforward networks approximate functions]] | 44.4 |  | 4 | 2021-05-20 |
+| [[Finite-state dynamical systems are diverse]] | 48.1 |  | 2 | 2021-05-19 |
