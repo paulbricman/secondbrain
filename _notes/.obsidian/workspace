@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_queues/_queue.md",
+            "file": "Global minimum is not the target in machine learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_queues/_queue.md",
+                "file": "Global minimum is not the target in machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b3273c6fd9f127ef",
   "lastOpenFiles": [
+    "Global minimum is not the target in machine learning.md",
+    "Queues/*queue.md",
     "_queues/_queue.md",
     "MCMC is feasibe compared to IID sampling.md",
     "_queues/IW-Queue.md",
@@ -95,8 +97,6 @@
     "Feedforward networks approximate functions.md",
     "KL-divergence formalizes difference between discrete probability distributions.md",
     "Dynamical systems have memory.md",
-    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
-    "Dynamical systems have a certain anatomy.md",
-    "Deep learning enables simple chained transformations.md"
+    "Joint, marginal, and conditional probabilities are primitives of probability theory.md"
   ]
 }
