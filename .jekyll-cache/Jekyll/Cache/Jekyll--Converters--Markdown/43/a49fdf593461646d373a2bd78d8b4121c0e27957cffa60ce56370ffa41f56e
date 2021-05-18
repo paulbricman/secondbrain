@@ -1,0 +1,18 @@
+I"Ò<p>Finite-state [[Dynamical systems have a certain anatomy|dynamical systems]] have discrete states. Some examples include:</p>
+<ul>
+  <li>Discrete finite automaton: input and state determines next state</li>
+  <li>Moore-machine: like DFA, but with similarly deterministic output emitted</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[[MCMC is feasibe compared to IID sampling</td>
+          <td>Markov chain]]: like MM, but with [[Joint, marginal, and conditional probabilities are primitives of probability theory</td>
+          <td>probabilistic]] links and no output</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>Hidden Markov model: like MC, but with deterministic output</li>
+</ul>
+:ET
