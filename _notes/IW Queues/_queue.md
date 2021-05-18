@@ -5,7 +5,6 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
-| [[Global minimum is not the target in machine learning]] | 51.8 |  | 1 | 1970-01-01 |
 | [[LSTM's mitigate RNN issues]] | 55.5 |  | 1 | 1970-01-01 |
 | [[Memory can be content-based or location-based]] | 57.12 |  | 1 | 1970-01-01 |
 | [[Neural networks are a massive conceptual gateway]] | 59.2 |  | 1 | 1970-01-01 |
@@ -46,3 +45,4 @@ interval: 1
 | [[Feedforward networks approximate functions]] | 44.4 |  | 4 | 2021-05-20 |
 | [[Finite-state dynamical systems are diverse]] | 48.1 |  | 2 | 2021-05-19 |
 | [[MCMC is feasibe compared to IID sampling]] | 49.98 |  | 2 | 2021-05-19 |
+| [[Global minimum is not the target in machine learning]] | 51.8 |  | 2 | 2021-05-19 |

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Global minimum is not the target in machine learning.md",
+            "file": "LSTM's mitigate RNN issues.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Global minimum is not the target in machine learning.md",
+                "file": "LSTM's mitigate RNN issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b3273c6fd9f127ef",
   "lastOpenFiles": [
-    "Global minimum is not the target in machine learning.md",
+    "LSTM's mitigate RNN issues.md",
+    "IW Queues/_queue.md",
+    "_queue.md",
     "Queues/*queue.md",
+    "Global minimum is not the target in machine learning.md",
     "_queues/_queue.md",
     "MCMC is feasibe compared to IID sampling.md",
     "_queues/IW-Queue.md",
     "Finite-state dynamical systems are diverse.md",
-    "Feedforward networks approximate functions.md",
-    "KL-divergence formalizes difference between discrete probability distributions.md",
-    "Dynamical systems have memory.md",
-    "Joint, marginal, and conditional probabilities are primitives of probability theory.md"
+    "Feedforward networks approximate functions.md"
   ]
 }
