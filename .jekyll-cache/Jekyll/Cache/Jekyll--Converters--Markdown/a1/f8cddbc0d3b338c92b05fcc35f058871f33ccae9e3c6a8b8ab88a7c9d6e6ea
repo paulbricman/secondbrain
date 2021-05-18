@@ -1,0 +1,301 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Link</th>
+      <th>Priority</th>
+      <th>Notes</th>
+      <th>Interval</th>
+      <th>Next Rep</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[[Memory can be content-based or location-based]]</td>
+      <td>57.12</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Neural networks are a massive conceptual gateway]]</td>
+      <td>59.2</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[One-hot encodings are basis vectors in type space]]</td>
+      <td>62.9</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Meshing discretizes continuous spaces]]</td>
+      <td>64.26</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Post-digital computing promises superb energy efficiency]]</td>
+      <td>66.6</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Recurrent networks approximate dynamical systems]]</td>
+      <td>70.3</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Metropolis sampler is an elegant MCMC sampler]]</td>
+      <td>71.4</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Regularization penalizes flexibility]]</td>
+      <td>74</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Risk is statistical expectation of loss]]</td>
+      <td>77.7</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Restricted Boltzmann machine renders Boltzmann machine feasible]]</td>
+      <td>78.54</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Structural stability describes basin of similar dynamical systems]]</td>
+      <td>81.4</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Supervised learning assumes underlying structure]]</td>
+      <td>85.1</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Short-long term is a spectrum for memory]]</td>
+      <td>85.68</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Supervised learning is argmin in hypothesis space of model architecture]]</td>
+      <td>88.8</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Training and inference maintain and change different values]]</td>
+      <td>92.5</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Understanding is remembering in disguise]]</td>
+      <td>92.82</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Vanilla RNN’s often run into vanishing and exploding gradients]]</td>
+      <td>96.2</td>
+      <td> </td>
+      <td>1</td>
+      <td>1970-01-01</td>
+    </tr>
+    <tr>
+      <td>[[Argmin and argmax formalize optimization]]</td>
+      <td>0</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Boltzmann distribution links macrostates with probability of microstates]]</td>
+      <td>0</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Attractors and repellors have opposite behaviors in dynamical systems]]</td>
+      <td>3.7</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Boltzmann machine is a universal learning machine]]</td>
+      <td>7.14</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Backpropagation through time makes RNN’s feasible]]</td>
+      <td>7.4</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Bifurcations explain discontinuous child development stages]]</td>
+      <td>11.1</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Clamping neurons fixes their activation]]</td>
+      <td>14.28</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Bifurcations segment space of dynamical systems in basins]]</td>
+      <td>14.8</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Continuous-state dynamical systems share a common structure]]</td>
+      <td>18.5</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[DS can be entrained by input]]</td>
+      <td>21.42</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Cosine similarity is magnitude-agnostic]]</td>
+      <td>22.2</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Curse of dimensionality hinders high-dimensional mappings]]</td>
+      <td>25.9</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Hopfield networks are energy-based memory models]]</td>
+      <td>28.56</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Dataset size influences impact of noise]]</td>
+      <td>29.6</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Deep learning enables simple chained transformations]]</td>
+      <td>33.3</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Joint, marginal, and conditional probabilities are primitives of probability theory]]</td>
+      <td>35.7</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Dynamical systems have a certain anatomy]]</td>
+      <td>37</td>
+      <td> </td>
+      <td>8</td>
+      <td>2021-05-22</td>
+    </tr>
+    <tr>
+      <td>[[Dynamical systems have memory]]</td>
+      <td>40.7</td>
+      <td> </td>
+      <td>4</td>
+      <td>2021-05-20</td>
+    </tr>
+    <tr>
+      <td>[[KL-divergence formalizes difference between discrete probability distributions]]</td>
+      <td>42.84</td>
+      <td> </td>
+      <td>4</td>
+      <td>2021-05-20</td>
+    </tr>
+    <tr>
+      <td>[[Feedforward networks approximate functions]]</td>
+      <td>44.4</td>
+      <td> </td>
+      <td>4</td>
+      <td>2021-05-20</td>
+    </tr>
+    <tr>
+      <td>[[Finite-state dynamical systems are diverse]]</td>
+      <td>48.1</td>
+      <td> </td>
+      <td>2</td>
+      <td>2021-05-19</td>
+    </tr>
+    <tr>
+      <td>[[MCMC is feasibe compared to IID sampling]]</td>
+      <td>49.98</td>
+      <td> </td>
+      <td>2</td>
+      <td>2021-05-19</td>
+    </tr>
+    <tr>
+      <td>[[Global minimum is not the target in machine learning]]</td>
+      <td>51.8</td>
+      <td> </td>
+      <td>2</td>
+      <td>2021-05-19</td>
+    </tr>
+    <tr>
+      <td>[[LSTM’s mitigate RNN issues]]</td>
+      <td>55.5</td>
+      <td> </td>
+      <td>2</td>
+      <td>2021-05-19</td>
+    </tr>
+  </tbody>
+</table>
+:ET

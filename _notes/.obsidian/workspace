@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Memory can be content-based or location-based.md",
+            "file": "Incremental Writing Queues/Incremental Writing Queue.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory can be content-based or location-based.md",
+                "file": "Incremental Writing Queues/Incremental Writing Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b3273c6fd9f127ef",
   "lastOpenFiles": [
-    "Memory can be content-based or location-based.md",
+    "Incremental Writing Queues/Incremental Writing Queue.md",
     "Incremental Writing Queues/+Queue.md",
+    "Memory can be content-based or location-based.md",
     "Incremental Writing Queues/_queue.md",
     "LSTM's mitigate RNN issues.md",
     "IW Queues/_queue.md",
     "_queue.md",
     "Queues/*queue.md",
     "Global minimum is not the target in machine learning.md",
-    "_queues/_queue.md",
-    "MCMC is feasibe compared to IID sampling.md"
+    "_queues/_queue.md"
   ]
 }
