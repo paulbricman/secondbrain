@@ -8,3 +8,5 @@ Metzinger introduces a number of constraints which presumably enable [[Phenomena
 3. Global coherence
 4. Convolved holism
 5. Dynamicity
+6. Perspectivalness
+7. Transparency

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3273c6fd9f127ef",
+        "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Incremental Writing Queues/Incremental Writing Queue.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai.rug",
+                "query": "pass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incremental Writing Queues/Incremental Writing Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +83,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3273c6fd9f127ef",
+  "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Written word is a proxy for thought.md",
+    "Historical lexical semantics capture paradigm shifts.md",
+    "Cognitive ergonomics is like biocompatibility for tools for thought.md",
+    "Phenomenal representations are constrained mental representations.md",
     "Incremental Writing Queues/Incremental Writing Queue.md",
     "Incremental Writing Queues/+Queue.md",
     "Memory can be content-based or location-based.md",
     "Incremental Writing Queues/_queue.md",
-    "LSTM's mitigate RNN issues.md",
-    "IW Queues/_queue.md",
-    "_queue.md",
-    "Queues/*queue.md",
-    "Global minimum is not the target in machine learning.md",
-    "_queues/_queue.md"
+    "LSTM's mitigate RNN issues.md"
   ]
 }
