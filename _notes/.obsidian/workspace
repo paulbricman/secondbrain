@@ -7,8 +7,11 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "BPTT trains all weights, while RC only output weights.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pass",
+                "query": "linearly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BPTT trains all weights, while RC only output weights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "BPTT trains all weights, while RC only output weights.md",
+    "Bifurcations segment space of dynamical systems in basins.md",
     "Untitled.md",
+    "Phenomenal space is adaptive.md",
+    "Virtual reality renders abstract concepts into tangible objects.md",
     "Written word is a proxy for thought.md",
     "Historical lexical semantics capture paradigm shifts.md",
     "Cognitive ergonomics is like biocompatibility for tools for thought.md",
     "Phenomenal representations are constrained mental representations.md",
-    "Incremental Writing Queues/Incremental Writing Queue.md",
-    "Incremental Writing Queues/+Queue.md",
-    "Memory can be content-based or location-based.md",
-    "Incremental Writing Queues/_queue.md",
-    "LSTM's mitigate RNN issues.md"
+    "Incremental Writing Queues/Incremental Writing Queue.md"
   ]
 }
