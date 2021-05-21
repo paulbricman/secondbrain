@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BPTT trains all weights, while RC only output weights.md",
-            "mode": "source"
+            "file": "Metabolism influences neural dynamics.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linearly",
+                "query": "coarse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BPTT trains all weights, while RC only output weights.md",
+                "file": "Metabolism influences neural dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Metabolism influences neural dynamics.md",
+    "Post-digital computing promises superb energy efficiency.md",
+    "Untitled.md",
     "BPTT trains all weights, while RC only output weights.md",
     "Bifurcations segment space of dynamical systems in basins.md",
-    "Untitled.md",
     "Phenomenal space is adaptive.md",
     "Virtual reality renders abstract concepts into tangible objects.md",
     "Written word is a proxy for thought.md",
     "Historical lexical semantics capture paradigm shifts.md",
-    "Cognitive ergonomics is like biocompatibility for tools for thought.md",
-    "Phenomenal representations are constrained mental representations.md",
-    "Incremental Writing Queues/Incremental Writing Queue.md"
+    "Cognitive ergonomics is like biocompatibility for tools for thought.md"
   ]
 }
