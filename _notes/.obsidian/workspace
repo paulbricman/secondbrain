@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metabolism influences neural dynamics.md",
-            "mode": "preview"
+            "file": "Self-quantification expands personal understanding.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coarse",
+                "query": "measure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metabolism influences neural dynamics.md",
+                "file": "Self-quantification expands personal understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Metabolism influences neural dynamics.md",
-    "Post-digital computing promises superb energy efficiency.md",
     "Untitled.md",
-    "BPTT trains all weights, while RC only output weights.md",
-    "Bifurcations segment space of dynamical systems in basins.md",
-    "Phenomenal space is adaptive.md",
-    "Virtual reality renders abstract concepts into tangible objects.md",
-    "Written word is a proxy for thought.md",
-    "Historical lexical semantics capture paradigm shifts.md",
-    "Cognitive ergonomics is like biocompatibility for tools for thought.md"
+    "World-image is a chicken-egg problem.md",
+    "Occam's razor is a heuristic for pruning a solution set.md",
+    "Feedforward networks approximate functions.md",
+    "Deep learning enables simple chained transformations.md",
+    "Perceptron pioneers NN's.md",
+    "Argmin and argmax formalize optimization.md",
+    "Guided search in attention is multi-pass filtering in machine learning.md",
+    "Fourier combined cosine sum generality with cosine simplicity in DE's.md",
+    "Dataset size influences impact of noise.md"
   ]
 }

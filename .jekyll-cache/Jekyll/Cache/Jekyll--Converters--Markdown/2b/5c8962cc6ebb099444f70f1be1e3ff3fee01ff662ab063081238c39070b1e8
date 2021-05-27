@@ -1,0 +1,12 @@
+I"³<table>
+  <tbody>
+    <tr>
+      <td>Argmin and argmax are functions which iterate over a set of [[Candidate solution overload is a problem</td>
+      <td>candidate solutions]] to find the best ones as scored by a given attached function. In this, the two operators [[Risk is statistical expectation of loss</td>
+      <td>formalize the training objective]] in [[Supervised learning assumes underlying structure</td>
+      <td>supervised learning]], among countless other optimization tasks. Varying the size of the hypothesis space for optimization can be seen as a way of manipulating [[Regularization penalizes flexibility</td>
+      <td>flexibility]].</td>
+    </tr>
+  </tbody>
+</table>
+:ET
