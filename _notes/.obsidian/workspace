@@ -7,11 +7,8 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Self-quantification expands personal understanding.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "measure",
+                "query": "ai.rug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-quantification expands personal understanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +86,14 @@
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
     "Untitled.md",
+    "Vector fields are functions.md",
+    "KL-divergence formalizes difference between discrete probability distributions.md",
+    "Self-quantification expands personal understanding.md",
     "World-image is a chicken-egg problem.md",
     "Occam's razor is a heuristic for pruning a solution set.md",
     "Feedforward networks approximate functions.md",
     "Deep learning enables simple chained transformations.md",
     "Perceptron pioneers NN's.md",
-    "Argmin and argmax formalize optimization.md",
-    "Guided search in attention is multi-pass filtering in machine learning.md",
-    "Fourier combined cosine sum generality with cosine simplicity in DE's.md",
-    "Dataset size influences impact of noise.md"
+    "Argmin and argmax formalize optimization.md"
   ]
 }
