@@ -1,0 +1,18 @@
+I":<table>
+  <tbody>
+    <tr>
+      <td>The Boltzmann machine can [[Deep learning is consonant with empiricism</td>
+      <td>learn]] arbitrary [[Joint, marginal, and conditional probabilities are primitives of probability theory</td>
+      <td>probability distributions]] by means of minimizing the [[KL-divergence formalizes difference between discrete probability distributions</td>
+      <td>KL-divergence]] between ground-truth data and [[Neural activity is like airflow</td>
+      <td>neural activity]] in its visibles. During inference (or “sleep”), [[Clamping neurons fixes their activation</td>
+      <td>inputs are clamped]] while the Boltzmann machine [[Creativity is based on search, not generation</td>
+      <td>confabulates]] an output over time by [[MCMC is feasibe compared to IID sampling</td>
+      <td>sampling]] the [[Boltzmann distribution links macrostates with microstate probabilities</td>
+      <td>Boltzmann distribution]] using the [[Metropolis sampler is an elegant MCMC sampler</td>
+      <td>Metropolis sampler]]. However, due to the time span necessary for inference, vanilla Boltzmann machines aren’t feasible. That said, [[Restricted Boltzmann machine renders Boltzmann machine feasible</td>
+      <td>restricted Boltzmann machines]] make them borderline tractable.</td>
+    </tr>
+  </tbody>
+</table>
+:ET

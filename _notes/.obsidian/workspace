@@ -7,8 +7,11 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Hopfield networks are energy-based memory models.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hopfield networks are energy-based memory models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Vector fields are functions.md",
-    "KL-divergence formalizes difference between discrete probability distributions.md",
-    "Self-quantification expands personal understanding.md",
-    "World-image is a chicken-egg problem.md",
-    "Occam's razor is a heuristic for pruning a solution set.md",
-    "Feedforward networks approximate functions.md",
-    "Deep learning enables simple chained transformations.md",
-    "Perceptron pioneers NN's.md",
-    "Argmin and argmax formalize optimization.md"
+    "Hopfield networks are energy-based memory models.md",
+    "Curse of dimensionality hinders high-dimensional mappings.md",
+    "Cosine similarity is magnitude-agnostic.md",
+    "DS can be entrained by input.md",
+    "Continuous-state dynamical systems share a common structure.md",
+    "Bifurcations segment space of dynamical systems in basins.md",
+    "BPTT trains all weights, while RC only output weights.md",
+    "Clamping neurons fixes their activation.md",
+    "Bifurcations explain discontinuous child development stages.md",
+    "LSTM's mitigate RNN issues.md"
   ]
 }

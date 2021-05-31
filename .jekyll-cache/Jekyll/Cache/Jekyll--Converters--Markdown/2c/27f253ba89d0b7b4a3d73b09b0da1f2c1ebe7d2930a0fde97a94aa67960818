@@ -1,0 +1,12 @@
+I"Ñ<table>
+  <tbody>
+    <tr>
+      <td>By unfolding a [[Recurrent networks approximate dynamical systems</td>
+      <td>recurrent neural network]] into a [[Feedforward networks approximate functions</td>
+      <td>feedforward one]] using a clone for each time point, an engineer can apply [[Backpropagation renders gradient descent feasible</td>
+      <td>backpropagation to RNNs]]. This makes the infamously difficult to train models somewhat easier to train. However, there are drawbacks. For instance, only a certain number of time points can be considered in the unrolled network, limiting the ability of RNNs to [[Dynamical systems have memory</td>
+      <td>learn memory effects]].</td>
+    </tr>
+  </tbody>
+</table>
+:ET

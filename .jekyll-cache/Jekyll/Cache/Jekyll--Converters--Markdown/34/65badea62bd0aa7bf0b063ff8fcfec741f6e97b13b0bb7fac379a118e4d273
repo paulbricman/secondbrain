@@ -1,0 +1,15 @@
+I"{<table>
+  <tbody>
+    <tr>
+      <td>When using [[Backpropagation through time makes RNNs feasible</td>
+      <td>backpropagation through time]] with [[Vanilla RNNs often run into vanishing and exploding gradients</td>
+      <td>RNNs]], [[Training and inference maintain and change different values</td>
+      <td>all weights are learned]]. In contrast, in reservoir computing, only the output weights which read off the harvested [[Neural dynamicity has evolutionary advantages</td>
+      <td>dynamics]] are learned through a [[Argmin and argmax formalize optimization</td>
+      <td>closed-form]] linear regression. In a sense, reservoir computing explodes the [[DS can be entrained by input</td>
+      <td>input]] in a [[Curse of dimensionality hinders high-dimensional mappings</td>
+      <td>high-dimensional space]] which is then linearly separable.</td>
+    </tr>
+  </tbody>
+</table>
+:ET

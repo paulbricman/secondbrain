@@ -1,0 +1,11 @@
+I"m<table>
+  <tbody>
+    <tr>
+      <td>[[MCMC is feasibe compared to IID sampling</td>
+      <td>MCMC samplers]] are based on informed walks in the population space. The Metropolis sampler is a specific [[MCMC is feasibe compared to IID sampling</td>
+      <td>MCMC sampler]] based on effective heuristics. At each sampled point, a (local) [[Boltzmann distribution links macrostates with microstate probabilities</td>
+      <td>proposal distribution]] is used to sample the next one. The candidate point is accepted with an acceptance probability determined by the PDF values of the two.</td>
+    </tr>
+  </tbody>
+</table>
+:ET
