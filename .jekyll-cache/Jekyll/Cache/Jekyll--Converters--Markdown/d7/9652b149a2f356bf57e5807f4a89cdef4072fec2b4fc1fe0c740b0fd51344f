@@ -1,0 +1,14 @@
+I"[<table>
+  <tbody>
+    <tr>
+      <td>[[Joint, marginal, and conditional probabilities are primitives of probability theory</td>
+      <td>Probability]] density functions (PDFs) link [[Continuous-state dynamical systems share a common structure</td>
+      <td>continuous]] [[Dynamical systems have a certain anatomy</td>
+      <td>states]] [[Boltzmann distribution links macrostates with microstate probabilities</td>
+      <td>with probabilities]]. However, deriving probabilies using PDFs only works for intervals. In contrast, [[Joint, marginal, and conditional probabilities are primitives of probability theory</td>
+      <td>probability]] mass functions (PMFs) map [[Finite-state dynamical systems are diverse</td>
+      <td>finite state sets]] to probabilities which are meaningful for both single states and subsets.</td>
+    </tr>
+  </tbody>
+</table>
+:ET

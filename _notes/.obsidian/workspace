@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
+            "file": "Body seeks homeostasis.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "density",
+                "query": "stressor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
+                "file": "Body seeks homeostasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
-    "MCMC is feasibe compared to IID sampling.md",
+    "Body seeks homeostasis.md",
+    "Personalized language model perplexity approximates surprisal.md",
+    "Psychological foraging resembles simulated annealing.md",
+    "Multi-modal encoders enable cross-modal guidance in latent space.md",
+    "Dreaming exploits idiosyncratic neural dynamics.md",
     "Untitled.md",
-    "Dynamical systems have memory.md",
-    "Dynamical systems have a certain anatomy.md",
-    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
-    "Deep learning enables simple chained transformations.md",
-    "Dataset size influences impact of noise.md",
-    "Occam's razor is a heuristic for pruning a solution set.md",
-    "Hopfield networks are energy-based memory models.md"
+    "Attractors can be fixed, periodic, or chaotic.md",
+    "MCMC is feasibe compared to IID sampling.md",
+    "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
+    "Dynamical systems have memory.md"
   ]
 }
