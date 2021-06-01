@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hopfield networks are energy-based memory models.md",
-            "mode": "preview"
+            "file": "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ai.rug",
+                "query": "density",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hopfield networks are energy-based memory models.md",
+                "file": "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Hopfield networks are energy-based memory models.md",
-    "Curse of dimensionality hinders high-dimensional mappings.md",
-    "Cosine similarity is magnitude-agnostic.md",
-    "DS can be entrained by input.md",
-    "Continuous-state dynamical systems share a common structure.md",
-    "Bifurcations segment space of dynamical systems in basins.md",
-    "BPTT trains all weights, while RC only output weights.md",
-    "Clamping neurons fixes their activation.md",
-    "Bifurcations explain discontinuous child development stages.md",
-    "LSTM's mitigate RNN issues.md"
+    "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
+    "MCMC is feasibe compared to IID sampling.md",
+    "Untitled.md",
+    "Dynamical systems have memory.md",
+    "Dynamical systems have a certain anatomy.md",
+    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
+    "Deep learning enables simple chained transformations.md",
+    "Dataset size influences impact of noise.md",
+    "Occam's razor is a heuristic for pruning a solution set.md",
+    "Hopfield networks are energy-based memory models.md"
   ]
 }
