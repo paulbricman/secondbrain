@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Body seeks homeostasis.md",
-            "mode": "source"
+            "file": "Zeroth-principles thinking aims at infinitely expanding solution space.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stressor",
+                "query": "fine-tune",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Body seeks homeostasis.md",
+                "file": "Zeroth-principles thinking aims at infinitely expanding solution space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Body seeks homeostasis.md",
+    "Untitled.md",
     "Personalized language model perplexity approximates surprisal.md",
+    "Perplexity estimation enables antifragile learning.md",
+    "Body seeks homeostasis.md",
     "Psychological foraging resembles simulated annealing.md",
     "Multi-modal encoders enable cross-modal guidance in latent space.md",
     "Dreaming exploits idiosyncratic neural dynamics.md",
-    "Untitled.md",
     "Attractors can be fixed, periodic, or chaotic.md",
     "MCMC is feasibe compared to IID sampling.md",
-    "PDFs describe continuous probability distributions, while PMFs discrete ones.md",
-    "Dynamical systems have memory.md"
+    "PDFs describe continuous probability distributions, while PMFs discrete ones.md"
   ]
 }

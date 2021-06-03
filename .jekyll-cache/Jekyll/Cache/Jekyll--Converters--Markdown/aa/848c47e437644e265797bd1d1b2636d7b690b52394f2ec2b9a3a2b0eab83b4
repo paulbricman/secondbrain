@@ -1,0 +1,13 @@
+I"<table>
+  <tbody>
+    <tr>
+      <td>Say you’re [[Personalized language model perplexity approximates surprisal</td>
+      <td>fine-tuning]] a [[Language models are few-shot learners</td>
+      <td>language model]] to [[Perplexity estimation enables antifragile learning</td>
+      <td>estimate your perplexity]]. However, traces from the original training data makes interpreting the resulting perplexity difficult: it might work undesirably well in various situations. Subtracting output probabilities of the [[Pretrained models are universal computation engines</td>
+      <td>pretrained model]] from the [[Personalized language model perplexity approximates surprisal</td>
+      <td>fine-tuned model]] might help highlight the influence of fine-tuning data.</td>
+    </tr>
+  </tbody>
+</table>
+:ET
