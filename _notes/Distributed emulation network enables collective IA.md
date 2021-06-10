@@ -1,0 +1,5 @@
+---
+resource: https://discord.com/channels/817119487999606794/833748975114125392/852423832999690290
+---
+
+[[Emulations scale decision making|Emulations]] might enable an [[Human API pushes crowdsourcing on the tech stack|automated]] [[Live experience sharing makes expertise accessible|expertise market]]. However, such a network could follow a torrent pattern: "seeding" (i.e. offering access to) your [[Human emulation provides therapeutic allocentric perspective|emulation]] allows you to "leech" (i.e. get access to) other [[Human emulations enable impersonation attacks|emulations]]. Such a [[Parallel distributed processing is resilient and efficient|distributed]] network resembles Ben Goertzel's SingularityNet, albeit with a focus on [[Written word is a proxy for thought|fine-tuned language models]].

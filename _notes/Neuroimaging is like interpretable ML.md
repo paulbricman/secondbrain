@@ -1,0 +1,4 @@
+---
+---
+
+[[Brains are like stadiums|Neuroimaging]] consists of measuring [[Neural activity is like airflow|neural dynamics]] to [[Forecasting framing renders neural emulation feasible|identify underlying mechanisms]]. Similarly, in AI [[Explicit language of mental states informs psycholinguistic manifold alignment|alignment]], interpretable techniques are proposed to make sense of [[Recurrent networks approximate dynamical systems|complex NNs]]. Correlating a [[Cluster index quantifies internal-external connectivity|neuron cluster]] with specific [[Multi-modal mappings generate multi-modal receptive fields|types of information being processed]] resembles finding neural correlates through techniques like [[Brains are like orchestras|EEG or fMRI]].

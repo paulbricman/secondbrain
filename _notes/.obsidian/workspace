@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Echo state property highlights autoadaptation in dynamical systems.md",
-            "mode": "source"
+            "file": "Distributed emulation network enables collective IA.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transient",
+                "query": "convex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,12 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 254
   },
   "right": {
     "id": "bd6a90b6f24db9c6",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Echo state property highlights autoadaptation in dynamical systems.md",
+                "file": "Distributed emulation network enables collective IA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Echo state property highlights autoadaptation in dynamical systems.md",
-    "Argmin and argmax formalize optimization.md",
     "Untitled.md",
-    "Zeroth-principles thinking aims at infinitely expanding solution space.md",
-    "Personalized language model perplexity approximates surprisal.md",
-    "Perplexity estimation enables antifragile learning.md",
-    "Body seeks homeostasis.md",
-    "Psychological foraging resembles simulated annealing.md",
-    "Multi-modal encoders enable cross-modal guidance in latent space.md",
-    "Dreaming exploits idiosyncratic neural dynamics.md"
+    "Crowdsourcing approximates convex optimization.md",
+    "Eigenvectors are scaled by eigenvalues in linear transformation.md",
+    "Dynamical systems have memory.md",
+    "Occam's razor is a heuristic for pruning a solution set.md",
+    "Boltzmann distribution links macrostates with microstate probabilities.md",
+    "Attractors can be fixed, periodic, or chaotic.md",
+    "BPTT trains all weights, while RC only output weights.md",
+    "Argmin and argmax formalize optimization.md",
+    "Personalized language model perplexity approximates surprisal.md"
   ]
 }
