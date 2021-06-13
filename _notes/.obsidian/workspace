@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Distributed emulation network enables collective IA.md",
-            "mode": "preview"
+            "file": "Object-oriented programming idealizes genetics.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed emulation network enables collective IA.md",
+                "file": "Object-oriented programming idealizes genetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Crowdsourcing approximates convex optimization.md",
-    "Eigenvectors are scaled by eigenvalues in linear transformation.md",
-    "Dynamical systems have memory.md",
-    "Occam's razor is a heuristic for pruning a solution set.md",
-    "Boltzmann distribution links macrostates with microstate probabilities.md",
-    "Attractors can be fixed, periodic, or chaotic.md",
-    "BPTT trains all weights, while RC only output weights.md",
+    "Object-oriented programming idealizes genetics.md",
     "Argmin and argmax formalize optimization.md",
-    "Personalized language model perplexity approximates surprisal.md"
+    "Phenomenal space is adaptive.md",
+    "Attractors and repellors are state sets.md",
+    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
+    "Boltzmann distribution links macrostates with microstate probabilities.md",
+    "Finite-state dynamical systems are diverse.md",
+    "Distributed emulation network enables collective IA.md",
+    "Untitled.md",
+    "Crowdsourcing approximates convex optimization.md"
   ]
 }

@@ -5,6 +5,24 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
+| [[Attractors and repellors are state sets]] | 0 |  | 8 | 2021-06-10 |
+| [[Attractors and repellors have opposite behaviors in dynamical systems]] | 3.7 |  | 16 | 2021-06-08 |
+| [[Boltzmann machine is a universal learning machine]] | 7.14 |  | 16 | 2021-06-08 |
+| [[Backpropagation through time makes RNNs feasible]] | 7.4 |  | 16 | 2021-06-08 |
+| [[Bifurcations explain discontinuous child development stages]] | 11.1 |  | 16 | 2021-06-08 |
+| [[Clamping neurons fixes their activation]] | 14.28 |  | 16 | 2021-06-08 |
+| [[BPTT trains all weights, while RC only output weights]] | 14.29 |  | 8 | 2021-06-10 |
+| [[Bifurcations segment space of dynamical systems in basins]] | 14.8 |  | 16 | 2021-06-08 |
+| [[Continuous-state dynamical systems share a common structure]] | 18.5 |  | 16 | 2021-06-08 |
+| [[DS can be entrained by input]] | 21.42 |  | 16 | 2021-06-08 |
+| [[Cosine similarity is magnitude-agnostic]] | 22.2 |  | 16 | 2021-06-08 |
+| [[Curse of dimensionality hinders high-dimensional mappings]] | 25.9 |  | 16 | 2021-06-08 |
+| [[Hopfield networks are energy-based memory models]] | 28.56 |  | 16 | 2021-06-09 |
+| [[Occam's razor is a heuristic for pruning a solution set]] | 28.58 |  | 4 | 2021-06-08 |
+| [[Dataset size influences impact of noise]] | 29.6 |  | 16 | 2021-06-09 |
+| [[Deep learning enables simple chained transformations]] | 33.3 |  | 16 | 2021-06-09 |
+| [[Joint, marginal, and conditional probabilities are primitives of probability theory]] | 35.7 |  | 16 | 2021-06-09 |
+| [[Dynamical systems have a certain anatomy]] | 37 |  | 16 | 2021-06-09 |
 | [[Dynamical systems have memory]] | 40.7 |  | 4 | 2021-05-20 |
 | [[KL-divergence formalizes difference between discrete probability distributions]] | 42.84 |  | 4 | 2021-05-20 |
 | [[Perceptron pioneers NN's]] | 42.87 |  | 1 | 1970-01-01 |
@@ -33,23 +51,5 @@ interval: 1
 | [[Training and inference maintain and change different values]] | 92.5 |  | 1 | 1970-01-01 |
 | [[Understanding is remembering in disguise]] | 92.82 |  | 1 | 1970-01-01 |
 | [[Vanilla RNNs often run into vanishing and exploding gradients]] | 96.2 |  | 1 | 1970-01-01 |
-| [[Argmin and argmax formalize optimization]] | 0 |  | 16 | 2021-06-08 |
-| [[Boltzmann distribution links macrostates with microstate probabilities]] | 0 |  | 16 | 2021-06-08 |
-| [[Attractors and repellors are state sets]] | 0 |  | 8 | 2021-06-10 |
-| [[Attractors and repellors have opposite behaviors in dynamical systems]] | 3.7 |  | 16 | 2021-06-08 |
-| [[Boltzmann machine is a universal learning machine]] | 7.14 |  | 16 | 2021-06-08 |
-| [[Backpropagation through time makes RNNs feasible]] | 7.4 |  | 16 | 2021-06-08 |
-| [[Bifurcations explain discontinuous child development stages]] | 11.1 |  | 16 | 2021-06-08 |
-| [[Clamping neurons fixes their activation]] | 14.28 |  | 16 | 2021-06-08 |
-| [[BPTT trains all weights, while RC only output weights]] | 14.29 |  | 8 | 2021-06-10 |
-| [[Bifurcations segment space of dynamical systems in basins]] | 14.8 |  | 16 | 2021-06-08 |
-| [[Continuous-state dynamical systems share a common structure]] | 18.5 |  | 16 | 2021-06-08 |
-| [[DS can be entrained by input]] | 21.42 |  | 16 | 2021-06-08 |
-| [[Cosine similarity is magnitude-agnostic]] | 22.2 |  | 16 | 2021-06-08 |
-| [[Curse of dimensionality hinders high-dimensional mappings]] | 25.9 |  | 16 | 2021-06-08 |
-| [[Hopfield networks are energy-based memory models]] | 28.56 |  | 16 | 2021-06-09 |
-| [[Dataset size influences impact of noise]] | 29.6 |  | 16 | 2021-06-09 |
-| [[Deep learning enables simple chained transformations]] | 33.3 |  | 16 | 2021-06-09 |
-| [[Joint, marginal, and conditional probabilities are primitives of probability theory]] | 35.7 |  | 16 | 2021-06-09 |
-| [[Dynamical systems have a certain anatomy]] | 37 |  | 16 | 2021-06-09 |
-| [[Occam's razor is a heuristic for pruning a solution set]] | 28.58 |  | 4 | 2021-06-08 |
+| [[Argmin and argmax formalize optimization]] | 0 |  | 32 | 2021-06-29 |
+| [[Boltzmann distribution links macrostates with microstate probabilities]] | 0 |  | 32 | 2021-06-29 |
