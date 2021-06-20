@@ -1,0 +1,4 @@
+---
+---
+
+When you [[Medium influences message|exchange]] [[Electromyography enables covert speech recognition|voice]] messages on an instant messaging platform, you have to [[Biochemical signaling is like speaking|listen]] to the whole message before sending your own. However, on a voice call, you spontaneously contribute as the [[Conversational interfaces render knowledge bases into agents|conversation]] is flowing. In this, [[Vanilla RNNs often run into vanishing and exploding gradients|RNNs]] work by similarly first encoding all [[DS can be entrained by input|input]] [[Information hygiene is like spacecraft sanitization|information]] in an [[Embeddings in machine learning represent prototypes or exemplars|embedding]], before unpacking that into an answer. In contrast, transformers build an answer as the [[Streams formalize input-output|input stream]] progresses.

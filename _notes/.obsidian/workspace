@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Object-oriented programming idealizes genetics.md",
-            "mode": "source"
+            "file": "Abundance signals fitness.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "convex",
+                "query": "i",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object-oriented programming idealizes genetics.md",
+                "file": "Abundance signals fitness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Object-oriented programming idealizes genetics.md",
-    "Argmin and argmax formalize optimization.md",
-    "Phenomenal space is adaptive.md",
+    "Abundance signals fitness.md",
+    "Incremental Writing Queues/Incremental Writing Queue.md",
+    "Spatial metaphors provide primitives for latent space navigation.md",
+    "Ambiguity promotes creativity.md",
     "Attractors and repellors are state sets.md",
-    "Joint, marginal, and conditional probabilities are primitives of probability theory.md",
-    "Boltzmann distribution links macrostates with microstate probabilities.md",
-    "Finite-state dynamical systems are diverse.md",
-    "Distributed emulation network enables collective IA.md",
     "Untitled.md",
-    "Crowdsourcing approximates convex optimization.md"
+    "Recontextualizing educational resources enables a litmus test for credentialism.md",
+    "Validation through creation quantifies free learning.md",
+    "Creative output can support educational input in free learning.md",
+    "Skill exchanges can work like torrents.md"
   ]
 }

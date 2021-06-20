@@ -1,0 +1,5 @@
+---
+resource: https://archive.org/details/DeschoolingSociety
+---
+
+If people want to [[Learning in public fosters understanding|learn]], rather than simply [[Live experience sharing makes expertise accessible|outsourcing expertise]], then they need [[Creative output can support educational input in free learning|educational objects]] and mentors. Especially when acquiring [[Tacit knowledge in skill acquisition is dark knowledge in machine learning|tacit knowledge]], [[Predictive models capture expert uncertainty in process mining|mentors]] are crucial. In light of this, a skill exchange can be set up so that students "leech" (i.e. acquire skills), while mentors "seed" (i.e. [[Skill acquisition spans cognitive-associative-autonomous stages|teach skills]]). Naturally, all users can do both at the same time with different skills, because most people have something to [[Feynman cluster infuses learning by teaching with social structure|teach]].

@@ -1,0 +1,4 @@
+---
+---
+
+In a hash table, queries are [[One-hot encodings are basis vectors in type space|hashed]] and then matched against existing keys in efficient ways. However, vanilla hash tables are still [[Memory can be content-based or location-based|location-based]] storage, because the key semantics are ignored. However, if one hashed keys using [[Embeddings in machine learning represent prototypes or exemplars|semantic embeddings]], one could [[Spatial metaphors provide primitives for latent space navigation|look for close keys in semantic space]]. In this, semantic hash tables enable fuzzy key-value storage. Just like hash tables could be [[Distributed emulation network enables collective IA|distributed]], so might semantic hash tables.
