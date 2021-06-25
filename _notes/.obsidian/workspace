@@ -7,8 +7,11 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Agitation can be weaponized.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Agitation can be weaponized.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Agitation can be weaponized.md",
+    "Affect reflects ideological structures.md",
+    "Adolescence is exploratory.md",
+    "Adaptive physiology reflects cognitive processes.md",
+    "Action-at-a-distance distorts perception of distance.md",
     "Untitled.md",
     "Perplexity estimation enables antifragile learning.md",
     "Memory palace architecture and knowledge base topology must be aligned.md",
     "Abundance signals fitness.md",
-    "Incremental Writing Queues/Incremental Writing Queue.md",
-    "Spatial metaphors provide primitives for latent space navigation.md",
-    "Ambiguity promotes creativity.md",
-    "Attractors and repellors are state sets.md",
-    "Recontextualizing educational resources enables a litmus test for credentialism.md",
-    "Validation through creation quantifies free learning.md"
+    "Incremental Writing Queues/Incremental Writing Queue.md"
   ]
 }

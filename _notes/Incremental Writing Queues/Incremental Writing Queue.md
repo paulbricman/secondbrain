@@ -5,11 +5,6 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
-| [[Abundance signals fitness]] | 0 |  | 1 | 1970-01-01 |
-| [[Action-at-a-distance distorts perception of distance]] | 0.2 |  | 1 | 1970-01-01 |
-| [[Adaptive physiology reflects cognitive processes]] | 0.4 |  | 1 | 1970-01-01 |
-| [[Adolescence is exploratory]] | 0.6 |  | 1 | 1970-01-01 |
-| [[Affect reflects ideological structures]] | 0.8 |  | 1 | 1970-01-01 |
 | [[Agitation can be weaponized]] | 1 |  | 1 | 1970-01-01 |
 | [[Alignment is reflexive, symmetric, and transitive]] | 1.2 |  | 1 | 1970-01-01 |
 | [[Allocentric perspective-taking reveals blindspots]] | 1.4 |  | 1 | 1970-01-01 |
@@ -545,3 +540,8 @@ interval: 1
 | [[Argmin and argmax formalize optimization]] | 0 |  | 32 | 2021-06-29 |
 | [[Boltzmann distribution links macrostates with microstate probabilities]] | 0 |  | 32 | 2021-06-29 |
 | [[Attractors and repellors are state sets]] | 0 |  | 16 | 2021-06-28 |
+| [[Abundance signals fitness]] | 0 |  | 2 | 2021-06-26 |
+| [[Action-at-a-distance distorts perception of distance]] | 0.2 |  | 2 | 2021-06-26 |
+| [[Adaptive physiology reflects cognitive processes]] | 0.4 |  | 2 | 2021-06-26 |
+| [[Adolescence is exploratory]] | 0.6 |  | 2 | 2021-06-26 |
+| [[Affect reflects ideological structures]] | 0.8 |  | 2 | 2021-06-26 |
