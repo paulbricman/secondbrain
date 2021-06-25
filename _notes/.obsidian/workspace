@@ -7,11 +7,8 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Abundance signals fitness.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abundance signals fitness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Perplexity estimation enables antifragile learning.md",
+    "Memory palace architecture and knowledge base topology must be aligned.md",
     "Abundance signals fitness.md",
     "Incremental Writing Queues/Incremental Writing Queue.md",
     "Spatial metaphors provide primitives for latent space navigation.md",
     "Ambiguity promotes creativity.md",
     "Attractors and repellors are state sets.md",
-    "Untitled.md",
     "Recontextualizing educational resources enables a litmus test for credentialism.md",
-    "Validation through creation quantifies free learning.md",
-    "Creative output can support educational input in free learning.md",
-    "Skill exchanges can work like torrents.md"
+    "Validation through creation quantifies free learning.md"
   ]
 }
