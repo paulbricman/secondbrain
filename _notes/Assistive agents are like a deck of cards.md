@@ -1,0 +1,4 @@
+---
+---
+
+[[Conversational interfaces render knowledge bases into agents|Conversational interfaces]] can take on [[Few-shot regime enables extreme customization|different attitudes]]. Conceiving of [[Can cognitive tasks be factored?|factored tasks]] as managed by specialized [[Reinforcement learning agents model the world as DS with rewarded transitions|agents]] might make it more [[Cognitive ergonomics is like biocompatibility for tools for thought|cognitively ergonomic]]. This resembles a deck of modifier cards, possibly even Tarot cards (e.g. The Philosopher, The Oracle, etc.), each of which possesses a certain useful [[Skill exchanges can work like torrents|skill]].

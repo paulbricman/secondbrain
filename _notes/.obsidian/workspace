@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Agitation can be weaponized.md",
-            "mode": "source"
+            "file": "Zone of proximal development describes skill acquisition stage.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agitation can be weaponized.md",
+                "file": "Zone of proximal development describes skill acquisition stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Untitled.md",
     "Agitation can be weaponized.md",
     "Affect reflects ideological structures.md",
     "Adolescence is exploratory.md",
     "Adaptive physiology reflects cognitive processes.md",
     "Action-at-a-distance distorts perception of distance.md",
-    "Untitled.md",
     "Perplexity estimation enables antifragile learning.md",
     "Memory palace architecture and knowledge base topology must be aligned.md",
     "Abundance signals fitness.md",
