@@ -7,11 +7,8 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zone of proximal development describes skill acquisition stage.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "i",
+                "query": "remembering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zone of proximal development describes skill acquisition stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +85,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Memory induces coherence.md",
+    "Information networks should be decentralized.md",
     "Untitled.md",
+    "Memory palace makes spaced repetition physical.md",
+    "Memory palace architecture and knowledge base topology must be aligned.md",
+    "Knowledge base to memory palace mapping can be optimized.md",
+    "Zone of proximal development describes skill acquisition stage.md",
     "Agitation can be weaponized.md",
     "Affect reflects ideological structures.md",
-    "Adolescence is exploratory.md",
-    "Adaptive physiology reflects cognitive processes.md",
-    "Action-at-a-distance distorts perception of distance.md",
-    "Perplexity estimation enables antifragile learning.md",
-    "Memory palace architecture and knowledge base topology must be aligned.md",
-    "Abundance signals fitness.md",
-    "Incremental Writing Queues/Incremental Writing Queue.md"
+    "Adolescence is exploratory.md"
   ]
 }

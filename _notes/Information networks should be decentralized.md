@@ -1,0 +1,4 @@
+---
+---
+
+Given that [[Memory induces coherence|people actively reshape ideas for worldview coherence]], [[Parallel distributed processing is resilient and efficient|centralized]] hubs should be avoided in [[Computer networking idealizes social structures|social networks]] in order to avoid groupthink, a [[Global minimum is not the target in machine learning|local optimum]] in [[Memeplexes resemble grativational attractors|memetic evolution]]. [[Knowledge graph connectivity quantifies knowledge work|Connectivity]] should be increased, resulting in [[Diversity in problem solving sidesteps ideological debt|sidestepping ideological debt]]. For an individual, this means [[Second brain makes consumption-creation ratio salient|consuming]] content from diverse sources. However, [[Information hygiene is like spacecraft sanitization|information hygiene issues]] might manifest.
