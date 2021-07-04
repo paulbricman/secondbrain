@@ -45,12 +45,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "bd6a90b6f24db9c6",
@@ -85,15 +85,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Memory induces coherence.md",
-    "Information networks should be decentralized.md",
-    "Untitled.md",
-    "Memory palace makes spaced repetition physical.md",
-    "Memory palace architecture and knowledge base topology must be aligned.md",
-    "Knowledge base to memory palace mapping can be optimized.md",
-    "Zone of proximal development describes skill acquisition stage.md",
-    "Agitation can be weaponized.md",
-    "Affect reflects ideological structures.md",
-    "Adolescence is exploratory.md"
+    "Attention is representational resource allocation.md",
+    "Attention is a competition.md",
+    "Attention induces coherence.md",
+    "Attention distorts time.md",
+    "Archiving persists knowledge work.md",
+    "Apathy is hedonic adaptation to dreadful situations.md",
+    "Ambiguity promotes creativity.md",
+    "Third-person perspective-taking reveals blindspots.md",
+    "Egocentric projection is intuitive in programming.md",
+    "Allocentric perspective-taking reveals blindspots.md"
   ]
 }

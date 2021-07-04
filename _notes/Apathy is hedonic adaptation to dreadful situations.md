@@ -1,4 +1,4 @@
 ---
 ---
 
-In extremely painful situation, physically or psychologically, people often develop apathy, an effective numbing of their emotional response to the world. [[Hedonic adaptation makes individuals versatile|This defensive mechanism related to hedonic adaptation can be seen as an often needed protective shield.]]
+Apathy is a numbing of one's emotional response. It's often caused by extreme situations. [[Hedonic adaptation makes individuals versatile|As a hedonic adaptation mechanism, it's a perceptual protective shield]].

@@ -5,15 +5,6 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
-| [[Agitation can be weaponized]] | 1 |  | 1 | 1970-01-01 |
-| [[Alignment is reflexive, symmetric, and transitive]] | 1.2 |  | 1 | 1970-01-01 |
-| [[Allocentric perspective-taking reveals blindspots]] | 1.4 |  | 1 | 1970-01-01 |
-| [[Ambiguity promotes creativity]] | 1.6 |  | 1 | 1970-01-01 |
-| [[Apathy is hedonic adaptation to dreadful situations]] | 1.8 |  | 1 | 1970-01-01 |
-| [[Archiving persists knowledge work]] | 2 |  | 1 | 1970-01-01 |
-| [[Attention distorts time]] | 2.2 |  | 1 | 1970-01-01 |
-| [[Attention induces coherence]] | 2.4 |  | 1 | 1970-01-01 |
-| [[Attention is a competition]] | 2.6 |  | 1 | 1970-01-01 |
 | [[Attention is representational resource allocation]] | 2.8 |  | 1 | 1970-01-01 |
 | [[Attractors can be fixed, periodic, or chaotic]] | 3 |  | 1 | 1970-01-01 |
 | [[Automated fabrication supports prosumers]] | 3.2 |  | 1 | 1970-01-01 |
@@ -144,7 +135,7 @@ interval: 1
 | [[Dynamic core enables consciousness]] | 26 |  | 1 | 1970-01-01 |
 | [[Early second brain suffers from interest misrepresentation]] | 26.2 |  | 1 | 1970-01-01 |
 | [[Echo state property highlights autoadaptation in dynamical systems]] | 26.4 |  | 1 | 1970-01-01 |
-| [[Egocentric projection is intuitive in programming]] | 26.6 |  | 1 | 1970-01-01 |
+| [[First-person projection is intuitive in programming]] | 26.6 |  | 1 | 1970-01-01 |
 | [[Eigenvectors are scaled by eigenvalues in linear transformation]] | 26.8 |  | 1 | 1970-01-01 |
 | [[Elderly scaffold neural circuits to compensate for cognitive decline]] | 27 |  | 1 | 1970-01-01 |
 | [[Electromyography enables covert speech recognition]] | 27.2 |  | 1 | 1970-01-01 |
@@ -537,11 +528,20 @@ interval: 1
 | [[World-image is a chicken-egg problem]] | 97.8 |  | 1 | 1970-01-01 |
 | [[Written word is a proxy for thought]] | 98 |  | 1 | 1970-01-01 |
 | [[Zeroth-principles thinking aims at infinitely expanding solution space]] | 98.2 |  | 1 | 1970-01-01 |
-| [[Argmin and argmax formalize optimization]] | 0 |  | 32 | 2021-06-29 |
-| [[Boltzmann distribution links macrostates with microstate probabilities]] | 0 |  | 32 | 2021-06-29 |
-| [[Attractors and repellors are state sets]] | 0 |  | 16 | 2021-06-28 |
-| [[Abundance signals fitness]] | 0 |  | 2 | 2021-06-26 |
-| [[Action-at-a-distance distorts perception of distance]] | 0.2 |  | 2 | 2021-06-26 |
-| [[Adaptive physiology reflects cognitive processes]] | 0.4 |  | 2 | 2021-06-26 |
-| [[Adolescence is exploratory]] | 0.6 |  | 2 | 2021-06-26 |
-| [[Affect reflects ideological structures]] | 0.8 |  | 2 | 2021-06-26 |
+| [[Argmin and argmax formalize optimization]] | 0 |  | 64 | 2021-08-05 |
+| [[Boltzmann distribution links macrostates with microstate probabilities]] | 0 |  | 64 | 2021-08-05 |
+| [[Attractors and repellors are state sets]] | 0 |  | 32 | 2021-07-20 |
+| [[Abundance signals fitness]] | 0 |  | 4 | 2021-07-06 |
+| [[Action-at-a-distance distorts perception of distance]] | 0.2 |  | 4 | 2021-07-06 |
+| [[Adaptive physiology reflects cognitive processes]] | 0.4 |  | 4 | 2021-07-06 |
+| [[Adolescence is exploratory]] | 0.6 |  | 4 | 2021-07-06 |
+| [[Affect reflects ideological structures]] | 0.8 |  | 4 | 2021-07-06 |
+| [[Agitation can be weaponized]] | 1 |  | 2 | 2021-07-05 |
+| [[Alignment is reflexive, symmetric, and transitive]] | 1.2 |  | 2 | 2021-07-05 |
+| [[Third-person perspective-taking reveals blindspots]] | 1.4 |  | 2 | 2021-07-05 |
+| [[Ambiguity promotes creativity]] | 1.6 |  | 2 | 2021-07-05 |
+| [[Apathy is hedonic adaptation to dreadful situations]] | 1.8 |  | 2 | 2021-07-05 |
+| [[Archiving persists knowledge work]] | 2 |  | 2 | 2021-07-05 |
+| [[Attention distorts time]] | 2.2 |  | 2 | 2021-07-05 |
+| [[Attention induces coherence]] | 2.4 |  | 2 | 2021-07-05 |
+| [[Attention is a competition]] | 2.6 |  | 2 | 2021-07-05 |

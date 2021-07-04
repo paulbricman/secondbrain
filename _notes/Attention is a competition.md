@@ -1,4 +1,4 @@
 ---
 ---
 
-Neural workspace theory argues that attention is based on a competitive process which involves [[Consciousness as latent representation store is consonant with experiential insights|multiple simultaneous stimuli and feature dimensions]]. It argues that firing synchrony is the main mechanism deciding the winners in this [[Representationism in cognition is adaptationism in evolution|selection process pressured by relevance]] through phase-locking, together with [[Perception is context-dependent|various biases]].
+Neural workspace theory argues that attention is a [[Evolution is like buying a suit|selective process]] involving [[Consciousness as latent representation store is consonant with experiential insights|multiple competing stimuli]]. In this [[Neural dynamicity has evolutionary advantages|evolutionary process]], firing synchrony is posited to signal [[Abundance signals fitness|fitness]], as the selection process is [[Representationism in cognition is adaptationism in evolution|pressured by relevance]].

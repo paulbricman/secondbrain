@@ -2,4 +2,4 @@
 resource: https://www.youtube.com/watch?v=mvQK_ELDEiY
 ---
 
-The creative output of knowledge work can often be fleeting, such as in informal brainstorms. However, archiving can be used to persist this knowledge for supporting future work. Among a community, for instance, a forum can help persist insights from a fleeting chat. For an individual, it's important to [[Second brain buffer is like short-term memory|actualize the second brain buffer]].
+[[Creative output can support educational input in free learning|Creative output]] is often fleeting, such as in brainstorms. Archiving is used to persist [[Knowledge graph connectivity quantifies knowledge work|knowledge]] so that it can support future work. In an online community, forums persist insights from fleeting chats. Individuals can [[Fleeting note persisting resembles memory consolidation|consolidate fleeting notes]].
