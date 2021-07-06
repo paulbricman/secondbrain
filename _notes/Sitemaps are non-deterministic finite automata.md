@@ -1,0 +1,3 @@
+---
+---
+Sitemaps show the possible [[Thinking is traveling|paths]] a [[User models inform marketing campaigns|user]] can take on a website. In mapping out possibilities, sitemaps are [[Finite-state dynamical systems are diverse|non-deterministic finite automata]]: they describe a transition function across [[Discrete structure embeddings in continuous space are glitchy|discrete]] space and describe [[Logic frameworks formalize truth|possibilities]], rather than certainties or [[Joint, marginal, and conditional probabilities are primitives of probability theory|probabilities]].

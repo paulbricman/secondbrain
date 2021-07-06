@@ -1,0 +1,4 @@
+---
+resource: https://studio.ribbonfarm.com/p/superhistory-not-superintelligence
+---
+[[Supervised learning assumes underlying structure|AI]] can be seen as "living in superhistory" instead of "embodying superintelligence." This view argues that the occasional superhuman performance of [[Language models are few-shot learners|ML models]] is caused by enormous amounts of accumulated [[Experientialism breaks the subjectivism-objectivism dichotomy|experience]] in a short amount of time. AlphaGo was trained on millennia of gameplay, so its "data age" is orders of magnitude larger than its absolute age. By [[Few-shot learning exapts text generation|exapting]] [[Spatial metaphors provide primitives for latent space navigation|latent representations]], people might be able to also reap the benefits, and learn at a rate of decades per week.

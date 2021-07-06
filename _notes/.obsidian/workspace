@@ -7,8 +7,11 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Superhistory, not superintelligence.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254,
-    "collapsed": true
+    "width": 254
   },
   "right": {
     "id": "bd6a90b6f24db9c6",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Superhistory, not superintelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +88,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Attention is representational resource allocation.md",
-    "Attention is a competition.md",
-    "Attention induces coherence.md",
+    "Untitled.md",
+    "Backpropagation renders gradient descent feasible.md",
+    "Automated fabrication supports prosumers.md",
+    "Attractors can be fixed, periodic, or chaotic.md",
+    "Attractors and repellors have opposite behaviors in dynamical systems.md",
+    "Attractors and repellors are state sets.md",
     "Attention distorts time.md",
+    "Assistive agents are like a deck of cards.md",
     "Archiving persists knowledge work.md",
-    "Apathy is hedonic adaptation to dreadful situations.md",
-    "Ambiguity promotes creativity.md",
-    "Third-person perspective-taking reveals blindspots.md",
-    "Egocentric projection is intuitive in programming.md",
-    "Allocentric perspective-taking reveals blindspots.md"
+    "Argmin and argmax formalize optimization.md"
   ]
 }
