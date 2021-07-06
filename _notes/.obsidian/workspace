@@ -7,11 +7,8 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Superhistory, not superintelligence.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "remembering",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Superhistory, not superintelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +85,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Backpropagation renders gradient descent feasible.md",
+    "Attractors and repellors have opposite behaviors in dynamical systems.md",
+    "B-rolls induce diffused mental states.md",
+    "Axiomatic implants depict memetic psychotherapy.md",
     "Automated fabrication supports prosumers.md",
     "Attractors can be fixed, periodic, or chaotic.md",
-    "Attractors and repellors have opposite behaviors in dynamical systems.md",
-    "Attractors and repellors are state sets.md",
+    "Attention is representational resource allocation.md",
+    "Attention is a competition.md",
+    "Attention induces coherence.md",
     "Attention distorts time.md",
-    "Assistive agents are like a deck of cards.md",
-    "Archiving persists knowledge work.md",
-    "Argmin and argmax formalize optimization.md"
+    "Archiving persists knowledge work.md"
   ]
 }

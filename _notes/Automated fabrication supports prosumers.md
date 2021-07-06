@@ -2,4 +2,4 @@
 resource: https://www.youtube.com/watch?v=TsenczivhLQ
 ---
 
-Automated fabrication refers to the technology which enables an individual to manufacture goods with little to no external intervention. Automated fabrication technologies such as 3D printing empower [[Prosumers go beyond consumerism|prosumers to go beyond consumption of goods]].
+Automated fabrication enables individuals to easily manufacture custom goods. Technologies such as 3D printing or CNCs enable a shift from [[Prosumers go beyond consumerism|consumers to prosumers]].
