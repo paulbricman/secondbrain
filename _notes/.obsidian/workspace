@@ -7,8 +7,11 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Biological reward systems are malleable.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biological reward systems are malleable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +88,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Biological reward systems are malleable.md",
+    "Biofeedback to microexpressions helps regulate affect.md",
+    "Biochemical signaling is like speaking.md",
+    "Binding problem can be divided into several subproblems.md",
+    "Beliefs are gates into the body's biochemistry.md",
+    "Belief in memetic engineering approximates placebo.md",
+    "Batching in machine learning is like baking.md",
+    "Backpropagation renders gradient descent feasible.md",
     "Attractors and repellors have opposite behaviors in dynamical systems.md",
-    "B-rolls induce diffused mental states.md",
-    "Axiomatic implants depict memetic psychotherapy.md",
-    "Automated fabrication supports prosumers.md",
-    "Attractors can be fixed, periodic, or chaotic.md",
-    "Attention is representational resource allocation.md",
-    "Attention is a competition.md",
-    "Attention induces coherence.md",
-    "Attention distorts time.md",
-    "Archiving persists knowledge work.md"
+    "B-rolls induce diffused mental states.md"
   ]
 }

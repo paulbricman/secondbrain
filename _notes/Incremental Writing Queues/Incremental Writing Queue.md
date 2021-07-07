@@ -5,14 +5,6 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
-| [[Attractors and repellors have opposite behaviors in dynamical systems]] | 3.7 |  | 16 | 2021-06-08 |
-| [[Backpropagation renders gradient descent feasible]] | 3.8 |  | 1 | 1970-01-01 |
-| [[Batching in machine learning is like baking]] | 4 |  | 1 | 1970-01-01 |
-| [[Belief in memetic engineering approximates placebo]] | 4.2 |  | 1 | 1970-01-01 |
-| [[Beliefs are gates into the body's biochemistry]] | 4.4 |  | 1 | 1970-01-01 |
-| [[Binding problem can be divided into several subproblems]] | 4.6 |  | 1 | 1970-01-01 |
-| [[Biochemical signaling is like speaking]] | 4.8 |  | 1 | 1970-01-01 |
-| [[Biofeedback to microexpressions helps regulate affect]] | 5 |  | 1 | 1970-01-01 |
 | [[Biological reward systems are malleable]] | 5.2 |  | 1 | 1970-01-01 |
 | [[Biotic computing orchestrates microbiomes]] | 5.4 |  | 1 | 1970-01-01 |
 | [[Blinding in research is pruning bias-prone predictors in machine learning]] | 5.6 |  | 1 | 1970-01-01 |
@@ -540,8 +532,16 @@ interval: 1
 | [[Attention distorts time]] | 2.2 |  | 4 | 2021-07-08 |
 | [[Attention induces coherence]] | 2.4 |  | 4 | 2021-07-08 |
 | [[Attention is a competition]] | 2.6 |  | 4 | 2021-07-08 |
-| [[Attention is representational resource allocation]] | 2.8 |  | 2 | 2021-07-07 |
-| [[Attractors can be fixed, periodic, or chaotic]] | 3 |  | 2 | 2021-07-07 |
-| [[Automated fabrication supports prosumers]] | 3.2 |  | 2 | 2021-07-07 |
-| [[Axiomatic implants depict memetic psychotherapy]] | 3.4 |  | 2 | 2021-07-07 |
-| [[B-rolls induce diffused mental states]] | 3.6 |  | 2 | 2021-07-07 |
+| [[Attention is representational resource allocation]] | 2.8 |  | 4 | 2021-07-09 |
+| [[Attractors can be fixed, periodic, or chaotic]] | 3 |  | 4 | 2021-07-09 |
+| [[Automated fabrication supports prosumers]] | 3.2 |  | 4 | 2021-07-09 |
+| [[Axiomatic implants depict memetic psychotherapy]] | 3.4 |  | 4 | 2021-07-09 |
+| [[B-rolls induce diffused mental states]] | 3.6 |  | 4 | 2021-07-09 |
+| [[Attractors and repellors have opposite behaviors in dynamical systems]] | 3.7 |  | 32 | 2021-07-23 |
+| [[Backpropagation renders gradient descent feasible]] | 3.8 |  | 2 | 2021-07-08 |
+| [[Batching in machine learning is like baking]] | 4 |  | 2 | 2021-07-08 |
+| [[Belief in memetic psychotherapy approximates placebo]] | 4.2 |  | 2 | 2021-07-08 |
+| [[Beliefs are gates into the body's biochemistry]] | 4.4 |  | 2 | 2021-07-08 |
+| [[Binding problem can be divided into several subproblems]] | 4.6 |  | 2 | 2021-07-08 |
+| [[Biochemical signaling is like speaking]] | 4.8 |  | 2 | 2021-07-08 |
+| [[Biofeedback to body state regulates affect]] | 5 |  | 2 | 2021-07-08 |

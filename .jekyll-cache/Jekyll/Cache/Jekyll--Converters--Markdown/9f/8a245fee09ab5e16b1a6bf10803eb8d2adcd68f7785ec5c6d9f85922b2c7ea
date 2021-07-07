@@ -1,0 +1,13 @@
+I"Z<table>
+  <tbody>
+    <tr>
+      <td>In forward-mode differentiation, computing the partial derivative of [[Deep learning enables simple chained transformations</td>
+      <td>a single node]] in a [[Functional programs can be visualized as flowcharts</td>
+      <td>computational graph]] requires computing PDs for all nodes in the graph, making [[End-to-end differentiation enables powerful optimization techniques</td>
+      <td>gradient descent]] [[Restricted Boltzmann machine renders Boltzmann machine feasible</td>
+      <td>extremely expensive]]. In contrast, in reverse-mode differentiation, which supports [[Backpropagation through time makes RNNs feasible</td>
+      <td>backpropagation]], computing PDs for all nodes is done in a single sweep, by starting with the PDs of the output nodes and working backwards.</td>
+    </tr>
+  </tbody>
+</table>
+:ET
