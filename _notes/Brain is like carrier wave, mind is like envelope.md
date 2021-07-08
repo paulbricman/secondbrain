@@ -1,4 +1,4 @@
 ---
 ---
 
-Similar to the [[Brain is like hardware, mind is like software|computational metaphor of cognition]], a [[Attention distorts time|signal processing metaphor]] of cognition might associate the brain with a carrier wave and the mind with the associated envelope. In signal processing, the carrier wave is a support mechanism which supports information to be expressed through envelope modulate, such as in AM or FM radio transmission.
+Similar to the [[Brain is like hardware, mind is like software|brain-computer metaphor]], the brain can be associated with a carrier wave and the mind with the related envelope. In [[Attention distorts time|signal processing]], AM transmission specifically, carrier waves are support [[Medium influences message|channels]] modulated by envelopes.

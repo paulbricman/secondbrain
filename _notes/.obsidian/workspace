@@ -7,11 +7,8 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biological reward systems are malleable.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biological reward systems are malleable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
+    "Brain is like hardware, mind is like software.md",
+    "Brain is like carrier wave, mind is like envelope.md",
+    "Boids approximate crowd kinetics.md",
+    "Body states modulate feelings.md",
+    "Body seeks homeostasis.md",
+    "Body movement supports spatial reasoning.md",
+    "Blinding in research is pruning bias-prone predictors in machine learning.md",
+    "Biotic computing orchestrates microbiomes.md",
     "Biological reward systems are malleable.md",
-    "Biofeedback to microexpressions helps regulate affect.md",
-    "Biochemical signaling is like speaking.md",
-    "Binding problem can be divided into several subproblems.md",
-    "Beliefs are gates into the body's biochemistry.md",
-    "Belief in memetic engineering approximates placebo.md",
-    "Batching in machine learning is like baking.md",
-    "Backpropagation renders gradient descent feasible.md",
-    "Attractors and repellors have opposite behaviors in dynamical systems.md",
-    "B-rolls induce diffused mental states.md"
+    "Biofeedback to body state regulates affect.md"
   ]
 }

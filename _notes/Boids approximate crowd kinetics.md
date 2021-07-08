@@ -1,4 +1,4 @@
 ---
 ---
 
-Boids are a surpisingly simple, yet effective, computational model of crowd movement. By guiding individual movements of agents through a linear combination of several "drives", boids achieve crowd-like movement. The rules which guide boids are: separation (avoid crowded neighborhoods), alignment (align with nearby agents), and cohesion (aim for the centroid). 
+Boids model crowd movement. Individual agents are guided through a linear combination of [[Technical indicators are heuristics for stock market forecasting|heuristics]], which results in self-organizing crowds. The heuristics are: separation ([[Privacy is primarily concerned with information, not space|avoid crowded neighborhoods]]), [[Alignment is reflexive, symmetric, and transitive|alignment]] (align with nearby agents), and cohesion (aim for the [[Core items are centroids in latent space|centroid]]). 

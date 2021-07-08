@@ -5,14 +5,6 @@ interval: 1
 ---
 | Link | Priority | Notes | Interval | Next Rep |
 |------|----------|-------|---------|----------|
-| [[Biological reward systems are malleable]] | 5.2 |  | 1 | 1970-01-01 |
-| [[Biotic computing orchestrates microbiomes]] | 5.4 |  | 1 | 1970-01-01 |
-| [[Blinding in research is pruning bias-prone predictors in machine learning]] | 5.6 |  | 1 | 1970-01-01 |
-| [[Body movement supports spatial reasoning]] | 5.8 |  | 1 | 1970-01-01 |
-| [[Body seeks homeostasis]] | 6 |  | 1 | 1970-01-01 |
-| [[Body states modulate feelings]] | 6.2 |  | 1 | 1970-01-01 |
-| [[Boids approximate crowd kinetics]] | 6.4 |  | 1 | 1970-01-01 |
-| [[Brain is like carrier wave, mind is like envelope]] | 6.6 |  | 1 | 1970-01-01 |
 | [[Brain is like hardware, mind is like software]] | 6.8 |  | 1 | 1970-01-01 |
 | [[Brain waves are consonant with momentariness]] | 7 |  | 1 | 1970-01-01 |
 | [[Boltzmann machine is a universal learning machine]] | 7.14 |  | 16 | 2021-06-08 |
@@ -523,25 +515,33 @@ interval: 1
 | [[Adaptive physiology reflects cognitive processes]] | 0.4 |  | 8 | 2021-07-10 |
 | [[Adolescence is exploratory]] | 0.6 |  | 8 | 2021-07-10 |
 | [[Affect reflects ideological structures]] | 0.8 |  | 8 | 2021-07-10 |
-| [[Agitation can be weaponized]] | 1 |  | 4 | 2021-07-08 |
-| [[Alignment is reflexive, symmetric, and transitive]] | 1.2 |  | 4 | 2021-07-08 |
-| [[Third-person perspective-taking reveals blindspots]] | 1.4 |  | 4 | 2021-07-08 |
-| [[Ambiguity promotes creativity]] | 1.6 |  | 4 | 2021-07-08 |
-| [[Apathy is hedonic adaptation to dreadful situations]] | 1.8 |  | 4 | 2021-07-08 |
-| [[Archiving persists knowledge work]] | 2 |  | 4 | 2021-07-08 |
-| [[Attention distorts time]] | 2.2 |  | 4 | 2021-07-08 |
-| [[Attention induces coherence]] | 2.4 |  | 4 | 2021-07-08 |
-| [[Attention is a competition]] | 2.6 |  | 4 | 2021-07-08 |
+| [[Agitation can be weaponized]] | 1 |  | 8 | 2021-07-12 |
+| [[Alignment is reflexive, symmetric, and transitive]] | 1.2 |  | 8 | 2021-07-12 |
+| [[Third-person perspective-taking reveals blindspots]] | 1.4 |  | 8 | 2021-07-12 |
+| [[Ambiguity promotes creativity]] | 1.6 |  | 8 | 2021-07-12 |
+| [[Apathy is hedonic adaptation to dreadful situations]] | 1.8 |  | 8 | 2021-07-12 |
+| [[Archiving persists knowledge work]] | 2 |  | 8 | 2021-07-12 |
+| [[Attention distorts time]] | 2.2 |  | 8 | 2021-07-12 |
+| [[Attention induces coherence]] | 2.4 |  | 8 | 2021-07-12 |
+| [[Attention is a competition]] | 2.6 |  | 8 | 2021-07-12 |
 | [[Attention is representational resource allocation]] | 2.8 |  | 4 | 2021-07-09 |
 | [[Attractors can be fixed, periodic, or chaotic]] | 3 |  | 4 | 2021-07-09 |
 | [[Automated fabrication supports prosumers]] | 3.2 |  | 4 | 2021-07-09 |
 | [[Axiomatic implants depict memetic psychotherapy]] | 3.4 |  | 4 | 2021-07-09 |
 | [[B-rolls induce diffused mental states]] | 3.6 |  | 4 | 2021-07-09 |
 | [[Attractors and repellors have opposite behaviors in dynamical systems]] | 3.7 |  | 32 | 2021-07-23 |
-| [[Backpropagation renders gradient descent feasible]] | 3.8 |  | 2 | 2021-07-08 |
-| [[Batching in machine learning is like baking]] | 4 |  | 2 | 2021-07-08 |
-| [[Belief in memetic psychotherapy approximates placebo]] | 4.2 |  | 2 | 2021-07-08 |
-| [[Beliefs are gates into the body's biochemistry]] | 4.4 |  | 2 | 2021-07-08 |
-| [[Binding problem can be divided into several subproblems]] | 4.6 |  | 2 | 2021-07-08 |
-| [[Biochemical signaling is like speaking]] | 4.8 |  | 2 | 2021-07-08 |
-| [[Biofeedback to body state regulates affect]] | 5 |  | 2 | 2021-07-08 |
+| [[Backpropagation renders gradient descent feasible]] | 3.8 |  | 4 | 2021-07-10 |
+| [[Batching in machine learning is like baking]] | 4 |  | 4 | 2021-07-10 |
+| [[Belief in memetic psychotherapy approximates placebo]] | 4.2 |  | 4 | 2021-07-10 |
+| [[Beliefs are gates into the body's biochemistry]] | 4.4 |  | 4 | 2021-07-10 |
+| [[Binding problem can be divided into several subproblems]] | 4.6 |  | 4 | 2021-07-10 |
+| [[Biochemical signaling is like speaking]] | 4.8 |  | 4 | 2021-07-10 |
+| [[Biofeedback to body state regulates affect]] | 5 |  | 4 | 2021-07-10 |
+| [[Biological reward systems are malleable]] | 5.2 |  | 2 | 2021-07-09 |
+| [[Biotic computing orchestrates microbiomes]] | 5.4 |  | 2 | 2021-07-09 |
+| [[Blinding in research is pruning predictors in ML]] | 5.6 |  | 2 | 2021-07-09 |
+| [[Body movement supports spatial reasoning]] | 5.8 |  | 2 | 2021-07-09 |
+| [[Body seeks homeostasis]] | 6 |  | 2 | 2021-07-09 |
+| [[Body states modulate feelings]] | 6.2 |  | 2 | 2021-07-09 |
+| [[Boids approximate crowd kinetics]] | 6.4 |  | 2 | 2021-07-09 |
+| [[Brain is like carrier wave, mind is like envelope]] | 6.6 |  | 2 | 2021-07-09 |
