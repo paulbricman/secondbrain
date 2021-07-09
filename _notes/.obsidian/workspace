@@ -7,8 +7,11 @@
         "id": "5fd1535f22ae7100",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Brains are like oceans.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Brains are like oceans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "5fd1535f22ae7100",
   "lastOpenFiles": [
-    "Brain is like hardware, mind is like software.md",
-    "Brain is like carrier wave, mind is like envelope.md",
-    "Boids approximate crowd kinetics.md",
-    "Body states modulate feelings.md",
-    "Body seeks homeostasis.md",
-    "Body movement supports spatial reasoning.md",
-    "Blinding in research is pruning bias-prone predictors in machine learning.md",
-    "Biotic computing orchestrates microbiomes.md",
-    "Biological reward systems are malleable.md",
-    "Biofeedback to body state regulates affect.md"
+    "Brains are like oceans.md",
+    "Brains are like monkeys with supercomputers.md",
+    "Brains are like forests.md",
+    "Brains are like cities.md",
+    "Brains are like buildings.md",
+    "Brains are dynamical systems.md",
+    "Backpropagation through time makes RNNs feasible.md",
+    "Brain-in-edit-mode supports inquiry in applied cognitive neuroscience.md",
+    "Boltzmann machine is a universal learning machine.md",
+    "Brain waves are consonant with momentariness.md"
   ]
 }
